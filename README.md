@@ -1,29 +1,26 @@
-# Hi, I'm Atakan 👋
+### Hi, I'm Atakan 👋
 
-I build and operate **production software end to end**, with a focus on **AI systems, automation, and business infrastructure**.
+I build production systems end to end — a cold-calling CRM used by a real
+sales team every day, a lead-generation data pipeline that runs unattended
+around the clock, and a multi-agent AI operations layer that keeps it all
+running with a human approving the decisions that matter.
 
-My current work includes:
+**→ [Full portfolio — 25 systems with architecture write-ups](https://atakan-24.github.io/)**
 
-- **AI-operated cold-calling CRM** — Next.js, Supabase, Telnyx Voice/WebRTC, LLM voice agents
-- **24/7 lead-generation pipeline** — automated data collection, processing, validation, and delivery
-- **Multi-agent AI operations layer** — agents, tools, workflows, and human approval for critical decisions
-- **Security tooling** — dependency-free secret scanning designed to stop leaked credentials before they reach Git
+#### Public repositories
 
-## Featured work
+| | | |
+|---|---|---|
+| [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Pre-commit hook + GitHub Action that stops API keys reaching a commit | Measured recall **80% → 100%**, 98 tests, CI on 3 OS × 3 Python versions |
+| [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | YouTube transcripts with a four-tier fallback chain | Routes around per-IP rate limits via an SSH relay; 40 tests |
+| [**gitingest**](https://github.com/Atakan-24/gitingest) | Flattens a repository into one searchable file | Refuses to truncate — falls back to structure instead |
+| [**fahm**](https://github.com/Atakan-24/fahm) | Arabic spaced-repetition app, [live](https://fahm-web.vercel.app) | 3,177 lines in one HTML file, no framework, offline PWA |
 
-**→ [Portfolio — architecture, demos & case studies](https://atakan-24.github.io/)**  
-**→ [GitHub — source code & engineering projects](https://github.com/Atakan-24)**  
-**→ [Security tool — git-secret-scan](https://github.com/Atakan-24/git-secret-scan)**
-
-## Engineering focus
-
-`TypeScript` · `Python` · `Next.js` · `Node.js` · `PostgreSQL` · `Supabase` · `WebRTC` · `LLM Agents` · `MCP` · `Data Pipelines` · `Application Security` · `CI/CD`
-
-## How I work
-
-I use AI coding agents as **engineering tools, not as a substitute for verification**: clear specifications, explicit constraints, small changes, and tests or inspection before accepting a result.
-
-## Contact
-
-**Email:** [atakanfisc@gmail.com](mailto:atakanfisc@gmail.com)  
-**Portfolio:** [atakan-24.github.io](https://atakan-24.github.io/)
+- 🏗️ Currently building: an AI-operated cold-calling platform (Next.js,
+  Supabase, Telnyx voice/WebRTC, LLM voice agents) and the multi-agent
+  automation layer that runs it
+- 🛠️ I work by directing AI coding agents deliberately — clear
+  specifications, hard guardrails, and treating every "it's done" as a
+  claim to verify, not a fact
+- 📫 [Book a 30-min call](https://cal.com/atakanoztunc/30min) ·
+  **atakanfisc@gmail.com**
