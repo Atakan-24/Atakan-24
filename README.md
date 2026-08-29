@@ -1,9 +1,9 @@
 ### Hi, I'm Atakan 👋
 
 I build production systems end to end — a cold-calling CRM used by a real
-sales team every day, a lead-generation data pipeline that runs unattended
-around the clock, and a multi-agent AI operations layer that keeps it all
-running with a human approving the decisions that matter.
+sales team every day, a lead-generation data pipeline that runs
+unattended around the clock, and a multi-agent AI operations layer that
+keeps it all running with a human approving the decisions that matter.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-25_systems-7dd3c0?style=flat-square)](https://atakan-24.github.io/)
 [![Book a call](https://img.shields.io/badge/Book_a_call-cal.com-000000?style=flat-square&logo=googlecalendar&logoColor=white)](https://cal.com/atakanoztunc/30min)
