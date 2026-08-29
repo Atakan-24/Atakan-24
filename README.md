@@ -6,10 +6,7 @@ unattended around the clock, and a multi-agent AI operations layer that
 keeps it all running with a human approving the decisions that matter.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-25_systems-7dd3c0?style=flat-square)](https://atakan-24.github.io/)
-[![Book a call](https://img.shields.io/badge/Book_a_call-cal.com-000000?style=flat-square&logo=googlecalendar&logoColor=white)](https://cal.com/atakanoztunc/30min)
 [![Email](https://img.shields.io/badge/Email-atakanfisc%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:atakanfisc@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-message_me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201069564012)
-[![Telegram](https://img.shields.io/badge/Telegram-message_me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Akioatakan)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -41,3 +38,15 @@ every step.
 I direct AI coding agents deliberately — clear specifications, hard
 guardrails, and treating every "it's done" as a claim to verify, not a
 fact.
+
+---
+
+#### Working together
+
+I also build and ship this kind of work for other businesses through
+[teamgoldllc.de](https://teamgoldllc.de) — production web systems,
+automation, and the infrastructure that keeps them running.
+
+[![Book a call](https://img.shields.io/badge/Book_a_30--min_call-cal.com-000000?style=flat-square&logo=googlecalendar&logoColor=white)](https://cal.com/atakanoztunc/30min)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-message_me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201069564012)
+[![Telegram](https://img.shields.io/badge/Telegram-message_me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Akioatakan)
