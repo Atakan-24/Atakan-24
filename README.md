@@ -1,18 +1,29 @@
-### Hi, I'm Atakan 👋
+# Hi, I'm Atakan 👋
 
-I build production systems end to end — a cold-calling CRM used by a real
-sales team every day, a lead-generation data pipeline that runs
-unattended around the clock, and a multi-agent AI operations layer that
-keeps it all running with a human approving the decisions that matter.
+I build and operate **production software end to end**, with a focus on **AI systems, automation, and business infrastructure**.
 
-**→ [Full portfolio with architecture write-ups](https://atakan-24.github.io/)**
+My current work includes:
 
-- 🏗️ Currently building: an AI-operated cold-calling platform (Next.js,
-  Supabase, Telnyx voice/WebRTC, LLM voice agents) and the multi-agent
-  automation layer that runs it
-- 💻 Code sample: [`git-secret-scan`](https://github.com/Atakan-24/git-secret-scan) —
-  a dependency-free pre-commit hook against leaked API keys
-- 🛠️ I work by directing AI coding agents deliberately — clear
-  specifications, hard guardrails, and treating every "it's done" as a
-  claim to verify, not a fact
-- 📫 Reach me at **atakanfisc@gmail.com**
+- **AI-operated cold-calling CRM** — Next.js, Supabase, Telnyx Voice/WebRTC, LLM voice agents
+- **24/7 lead-generation pipeline** — automated data collection, processing, validation, and delivery
+- **Multi-agent AI operations layer** — agents, tools, workflows, and human approval for critical decisions
+- **Security tooling** — dependency-free secret scanning designed to stop leaked credentials before they reach Git
+
+## Featured work
+
+**→ [Portfolio — architecture, demos & case studies](https://atakan-24.github.io/)**  
+**→ [GitHub — source code & engineering projects](https://github.com/Atakan-24)**  
+**→ [Security tool — git-secret-scan](https://github.com/Atakan-24/git-secret-scan)**
+
+## Engineering focus
+
+`TypeScript` · `Python` · `Next.js` · `Node.js` · `PostgreSQL` · `Supabase` · `WebRTC` · `LLM Agents` · `MCP` · `Data Pipelines` · `Application Security` · `CI/CD`
+
+## How I work
+
+I use AI coding agents as **engineering tools, not as a substitute for verification**: clear specifications, explicit constraints, small changes, and tests or inspection before accepting a result.
+
+## Contact
+
+**Email:** [atakanfisc@gmail.com](mailto:atakanfisc@gmail.com)  
+**Portfolio:** [atakan-24.github.io](https://atakan-24.github.io/)
