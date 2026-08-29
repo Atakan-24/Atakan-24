@@ -10,7 +10,7 @@ keeps it all running with a human approving the decisions that matter.
 - 🏗️ Currently building: an AI-operated cold-calling platform (Next.js,
   Supabase, Telnyx voice/WebRTC, LLM voice agents) and the multi-agent
   automation layer that runs it
-- 🔓 Open source: [`git-secret-scan`](https://github.com/Atakan-24/git-secret-scan) —
+- 💻 Code sample: [`git-secret-scan`](https://github.com/Atakan-24/git-secret-scan) —
   a dependency-free pre-commit hook against leaked API keys
 - 🛠️ I work by directing AI coding agents deliberately — clear
   specifications, hard guardrails, and treating every "it's done" as a
