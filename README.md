@@ -54,6 +54,7 @@ every step.
 | [**gitingest**](https://github.com/Atakan-24/gitingest) | Flattens a repository into one searchable file | Refuses to truncate — falls back to structure instead |
 | [**fahm**](https://github.com/Atakan-24/fahm) | Arabic spaced-repetition app, [live](https://fahm-web.vercel.app) | 3,177 lines in one HTML file, no framework, offline PWA |
 | [**postgrest-keyset-page**](https://github.com/Atakan-24/postgrest-keyset-page) | Cursor pagination for PostgREST-style REST APIs | Fixes a real bug: offset pagination silently drops/duplicates rows under concurrent writes; the failure is reproduced live in the test suite |
+| [**portfolio-tracker**](https://github.com/Atakan-24/portfolio-tracker) | Backend behind this site's analytics and "Ask me directly" chat | Never stores an IP or a name — country comes from a transient geolocation lookup, the chat is grounded to a fixed knowledge block and says "I don't know" instead of guessing |
 
 #### How I work
 
