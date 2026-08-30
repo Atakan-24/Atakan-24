@@ -1,5 +1,7 @@
 # Atkan Ismail Öztunç
 
+**PDF-Version:** [Bewerbungs-PDF herunterladen](./Atkan_Ismail_Oeztunc_Lebenslauf_DE.pdf)
+
 **Software Engineer | KI & Automatisierung | Product Engineering**
 
 **Remote | Offen für internationale Zusammenarbeit**
@@ -79,6 +81,6 @@ AI Engineer | AI Automation Engineer | Product Engineer | Full-Stack Engineer | 
 
 ## Links
 
-- GitHub: https://github.com/Atakan-24
-- Portfolio: https://atakan-24.github.io/
-- E-Mail: atakanfisc@gmail.com
+GitHub: https://github.com/Atakan-24
+Portfolio: https://atakan-24.github.io/
+E-Mail: atakanfisc@gmail.com
