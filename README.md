@@ -7,7 +7,6 @@ keeps it all running with a human approving the decisions that matter.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-25_systems-7dd3c0?style=flat-square)](https://atakan-24.github.io/)
 [![Email](https://img.shields.io/badge/Email-atakanfisc%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:atakanfisc@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=Atakan-24&color=7dd3c0&style=flat-square&label=Profile+views)
 
 #### Resume / CV
 
