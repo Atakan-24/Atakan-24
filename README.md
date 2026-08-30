@@ -10,9 +10,13 @@ keeps it all running with a human approving the decisions that matter.
 
 #### Resume / CV
 
-- [English CV - Atkan Ismail Öztunç](./CV_Atkan_Ismail_Oeztunc_EN.md)
-- [Deutscher Lebenslauf - Atkan Ismail Öztunç](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md)
-- [Portfolio](https://atakan-24.github.io/)
+| Version | Link |
+|---|---|
+| 🇬🇧 **English CV** | [Open / download](./CV_Atkan_Ismail_Oeztunc_EN.md) |
+| 🇩🇪 **Deutscher Lebenslauf** | [Öffnen / herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md) |
+| 🌐 **Portfolio** | [atakan-24.github.io](https://atakan-24.github.io/) |
+
+> The CV is maintained in both English and German. For applications, use the version that matches the language and requirements of the role.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
