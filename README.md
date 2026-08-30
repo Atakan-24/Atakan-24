@@ -10,13 +10,13 @@ keeps it all running with a human approving the decisions that matter.
 
 #### Resume / CV
 
-| Version | Markdown | PDF |
-|---|---|---|
-| 🇬🇧 **English CV** | [View](./CV_Atkan_Ismail_Oeztunc_EN.md) | [Open / download](./Atkan_Ismail_Oeztunc_CV_EN.pdf) |
-| 🇩🇪 **Deutscher Lebenslauf** | [Öffnen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md) | [Öffnen / herunterladen](./Atkan_Ismail_Oeztunc_Lebenslauf_DE.pdf) |
-| 🌐 **Portfolio** | - | [atakan-24.github.io](https://atakan-24.github.io/) |
+| Version | Markdown (GitHub) | PDF (application) | DOCX (editable) |
+|---|---|---|---|
+| 🇬🇧 **English CV** | [View](./CV_Atkan_Ismail_Oeztunc_EN.md) | [Open / download](./CV_Atkan_Ismail_Oeztunc_EN.pdf) | [Download](./CV_Atkan_Ismail_Oeztunc_EN.docx) |
+| 🇩🇪 **Deutscher Lebenslauf** | [Öffnen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md) | [Öffnen / herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.pdf) | [Herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.docx) |
+| 🌐 **Portfolio** | - | [atakan-24.github.io](https://atakan-24.github.io/) | - |
 
-> The CV is maintained in both English and German. Markdown is the editable source; PDF is the application-ready version.
+> The CV is maintained in three formats, each for a different purpose: **Markdown** is the GitHub/developer-facing version, **PDF** is the final, application-ready file, and **DOCX** is the editable master used to produce both. Content is kept identical across all three; only the format differs.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
