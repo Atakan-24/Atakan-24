@@ -41,6 +41,28 @@ I direct AI coding agents deliberately — clear specifications, hard
 guardrails, and treating every "it's done" as a claim to verify, not a
 fact.
 
+<details>
+<summary><strong>My journey</strong> — a non-traditional path into engineering</summary>
+<br>
+
+Before writing code, I spent a few years running online businesses —
+e-commerce, affiliate marketing, a YouTube channel. That's where I learned
+to get someone's attention and turn it into a paying customer, long
+before I could write a line of code.
+
+Around 20 I started learning to code, at first alongside that work. At 22
+I moved to Egypt and shifted my focus fully to software — freelance
+client work first, then building the acquisition systems (cold calling,
+AI voice calling, email and outreach) for my own business, Team Gold.
+Most of what's above grew out of that: I don't build software in the
+abstract, I build it because a real workflow needed it, then operate it
+long enough to find out what breaks.
+
+I didn't take the university route. What replaced it was building things,
+breaking them, and fixing them in production, repeatedly.
+
+</details>
+
 ---
 
 #### Working together
