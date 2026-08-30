@@ -28,6 +28,7 @@ every step.
 
 | | | |
 |---|---|---|
+| [**gh-radar**](https://github.com/Atakan-24/gh-radar) | Daily digest of what actually needs you on GitHub — read-only by construction | HTTP layer refuses every method but GET, CI asserts it; 58 tests |
 | [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Pre-commit hook + GitHub Action that stops API keys reaching a commit | Measured recall **80% → 100%**, 98 tests, CI on 3 OS × 3 Python versions |
 | [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | YouTube transcripts with a four-tier fallback chain | Routes around per-IP rate limits via an SSH relay; 40 tests |
 | [**gitingest**](https://github.com/Atakan-24/gitingest) | Flattens a repository into one searchable file | Refuses to truncate — falls back to structure instead |
