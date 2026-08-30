@@ -10,13 +10,13 @@ keeps it all running with a human approving the decisions that matter.
 
 #### Resume / CV
 
-| Version | Link |
-|---|---|
-| 🇬🇧 **English CV** | [Open / download](./CV_Atkan_Ismail_Oeztunc_EN.md) |
-| 🇩🇪 **Deutscher Lebenslauf** | [Öffnen / herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md) |
-| 🌐 **Portfolio** | [atakan-24.github.io](https://atakan-24.github.io/) |
+| Version | Markdown | PDF |
+|---|---|---|
+| 🇬🇧 **English CV** | [View](./CV_Atkan_Ismail_Oeztunc_EN.md) | [Open / download](./Atkan_Ismail_Oeztunc_CV_EN.pdf) |
+| 🇩🇪 **Deutscher Lebenslauf** | [Öffnen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md) | [Öffnen / herunterladen](./Atkan_Ismail_Oeztunc_Lebenslauf_DE.pdf) |
+| 🌐 **Portfolio** | - | [atakan-24.github.io](https://atakan-24.github.io/) |
 
-> The CV is maintained in both English and German. For applications, use the version that matches the language and requirements of the role.
+> The CV is maintained in both English and German. Markdown is the editable source; PDF is the application-ready version.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -61,12 +61,12 @@ to get someone's attention and turn it into a paying customer, long
 before I could write a line of code.
 
 Around 20 I started learning to code, at first alongside that work. At 22
-I moved to Egypt and shifted my focus fully to software — freelance
-client work first, then building the acquisition systems (cold calling,
-AI voice calling, email and outreach) for my own business, Team Gold.
-Most of what's above grew out of that: I don't build software in the
-abstract, I build it because a real workflow needed it, then operate it
-long enough to find out what breaks.
+I moved to Egypt and shifted my focus fully to software — freelance client
+work first, then building the acquisition systems (cold calling, AI voice
+calling, email and outreach) for my own business, Team Gold. Most of what's
+above grew out of that: I don't build software in the abstract, I build it
+because a real workflow needed it, then operate it long enough to find out
+what breaks.
 
 I didn't take the university route. What replaced it was building things,
 breaking them, and fixing them in production, repeatedly.
