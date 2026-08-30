@@ -8,6 +8,12 @@ keeps it all running with a human approving the decisions that matter.
 [![Portfolio](https://img.shields.io/badge/Portfolio-25_systems-7dd3c0?style=flat-square)](https://atakan-24.github.io/)
 [![Email](https://img.shields.io/badge/Email-atakanfisc%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:atakanfisc@gmail.com)
 
+#### Resume / CV
+
+- [English CV - Atkan Ismail Öztunç](./CV_Atkan_Ismail_Oeztunc_EN.md)
+- [Deutscher Lebenslauf - Atkan Ismail Öztunç](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md)
+- [Portfolio](https://atakan-24.github.io/)
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
