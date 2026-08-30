@@ -18,6 +18,15 @@ keeps it all running with a human approving the decisions that matter.
 
 > The CV is maintained in three formats, each for a different purpose: **Markdown** is the GitHub/developer-facing version, **PDF** is the final, application-ready file, and **DOCX** is the editable master used to produce both. Content is kept identical across all three; only the format differs.
 
+#### Goals & Direction (2026-2027)
+
+Why I didn't take a conventional apprenticeship route into IT, what I'm actually working toward over the next 12 months, and what happens if the plan doesn't work out.
+
+| Version | Markdown (GitHub) | PDF | DOCX (editable) |
+|---|---|---|---|
+| 🇬🇧 **English** | [View](./My_Goals_2026_2027_EN.md) | [Open / download](./My_Goals_2026_2027_EN.pdf) | [Download](./My_Goals_2026_2027_EN.docx) |
+| 🇩🇪 **Deutsch** | [Öffnen](./Meine_Ziele_2026_2027_DE.md) | [Öffnen / herunterladen](./Meine_Ziele_2026_2027_DE.pdf) | [Herunterladen](./Meine_Ziele_2026_2027_DE.docx) |
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
