@@ -33,6 +33,7 @@ every step.
 | [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | YouTube transcripts with a four-tier fallback chain | Routes around per-IP rate limits via an SSH relay; 40 tests |
 | [**gitingest**](https://github.com/Atakan-24/gitingest) | Flattens a repository into one searchable file | Refuses to truncate — falls back to structure instead |
 | [**fahm**](https://github.com/Atakan-24/fahm) | Arabic spaced-repetition app, [live](https://fahm-web.vercel.app) | 3,177 lines in one HTML file, no framework, offline PWA |
+| [**postgrest-keyset-page**](https://github.com/Atakan-24/postgrest-keyset-page) | Cursor pagination for PostgREST-style REST APIs | Fixes a real bug: offset pagination silently drops/duplicates rows under concurrent writes; the failure is reproduced live in the test suite |
 
 #### How I work
 
