@@ -5,7 +5,8 @@ sales team every day, a lead-generation data pipeline that runs
 unattended around the clock, and a multi-agent AI operations layer that
 keeps it all running with a human approving the decisions that matter.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-25_systems-7dd3c0?style=flat-square)](https://atakan-24.github.io/)
+[![View Portfolio · 25 systems](https://img.shields.io/badge/View_Portfolio-25_systems-7dd3c0?style=for-the-badge)](https://atakan-24.github.io/)
+
 [![Email](https://img.shields.io/badge/Email-atakanfisc%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:atakanfisc@gmail.com)
 
 #### Resume / CV
@@ -14,7 +15,6 @@ keeps it all running with a human approving the decisions that matter.
 |---|---|---|---|
 | 🇬🇧 **English CV** | [View](./CV_Atkan_Ismail_Oeztunc_EN.md) | [Open / download](./CV_Atkan_Ismail_Oeztunc_EN.pdf) | [Download](./CV_Atkan_Ismail_Oeztunc_EN.docx) |
 | 🇩🇪 **Deutscher Lebenslauf** | [Öffnen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md) | [Öffnen / herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.pdf) | [Herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.docx) |
-| 🌐 **Portfolio** | - | [atakan-24.github.io](https://atakan-24.github.io/) | - |
 
 > The CV is maintained in three formats, each for a different purpose: **Markdown** is the GitHub/developer-facing version, **PDF** is the final, application-ready file, and **DOCX** is the editable master used to produce both. Content is kept identical across all three; only the format differs.
 
