@@ -6,6 +6,7 @@ unattended around the clock, and a multi-agent AI operations layer that
 keeps it all running with a human approving the decisions that matter.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-25_systems-7dd3c0?style=flat-square)](https://atakan-24.github.io/)
+[![Ask me directly](https://img.shields.io/badge/Ask_me_directly-AI_chat-7dd3c0?style=flat-square)](https://atakan-24.github.io/#frag-mich)
 [![Email](https://img.shields.io/badge/Email-atakanfisc%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:atakanfisc@gmail.com)
 
 #### Resume / CV
