@@ -15,98 +15,45 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Length 7702 >>
+<< /Length 8203 >>
 stream
 BT /F2 19.50 Tf 54.00 792.00 Td (Atkan Ismail \326ztun\347) Tj ET
-BT /F2 9.60 Tf 54.00 771.50 Td (Software Engineer | AI & Automation | Product Engineering) Tj ET
-BT /F2 9.60 Tf 54.00 761.30 Td (Remote | Open to International Opportunities) Tj ET
-BT /F2 7.00 Tf 54.00 752.10 Td (Email:) Tj ET
-BT /F1 7.00 Tf 75.01 752.10 Td ( atakanfisc@gmail.com  |  ) Tj ET
-BT /F2 7.00 Tf 157.07 752.10 Td (GitHub:) Tj ET
-BT /F1 7.00 Tf 182.73 752.10 Td ( https://github.com/Atakan-24  |  ) Tj ET
-BT /F2 7.00 Tf 283.38 752.10 Td (Portfolio:) Tj ET
-BT /F1 7.00 Tf 314.49 752.10 Td ( https://atakan-24.github.io/) Tj ET
-BT /F2 10.50 Tf 54.00 739.10 Td (Profile) Tj ET
-BT /F1 7.65 Tf 54.00 728.00 Td (Self-taught software engineer with approximately 3 years of hands-on development. Builds AI/LLM applications, automation, backend systems) Tj ET
-BT /F1 7.65 Tf 54.00 719.45 Td (and full-stack products end to end, with a strong emphasis on testing, failure handling, security and data correctness. Public work includes 25+) Tj ET
-BT /F1 7.65 Tf 54.00 710.90 Td (systems/projects, including developer tools and production-oriented business software. Brings an additional commercial perspective from) Tj ET
-BT /F1 7.65 Tf 54.00 702.35 Td (ongoing affiliate/e-commerce work, sales, content and customer acquisition.) Tj ET
-BT /F2 10.50 Tf 54.00 690.80 Td (Core Technical Skills) Tj ET
-BT /F1 7.65 Tf 54.00 679.70 Td (- Languages: Python, TypeScript, JavaScript / Node.js) Tj ET
-BT /F1 7.65 Tf 54.00 671.15 Td (- AI & Automation: LLM applications, AI agents, workflow automation, API integrations, AI-assisted development) Tj ET
-BT /F1 7.65 Tf 54.00 662.60 Td (- Backend & Data: REST APIs, PostgreSQL, Supabase, data processing, pagination, correctness) Tj ET
-BT /F1 7.65 Tf 54.00 654.05 Td (- Web & Product: Next.js, full-stack web applications, product prototyping, developer tooling) Tj ET
-BT /F1 7.65 Tf 54.00 645.50 Td (- Quality: automated testing, regression testing, property-based testing, CI/CD, debugging, maintainability) Tj ET
-BT /F1 7.65 Tf 54.00 636.95 Td (- Security: credential scanning, secret masking, read-only boundaries, fail-closed design) Tj ET
-BT /F2 10.50 Tf 54.00 625.40 Td (Engineering Experience) Tj ET
-BT /F2 8.45 Tf 54.00 613.80 Td (Independent Software Engineer / Builder | Self-directed | 2023 - Present) Tj ET
-BT /F1 7.65 Tf 54.00 604.55 Td (- Build end-to-end software through self-directed learning, iterative development and real-world problem solving.) Tj ET
-BT /F1 7.65 Tf 54.00 596.00 Td (- Work across AI/LLM applications, automation, backend services, full-stack products, security utilities, developer tooling and) Tj ET
-BT /F1 7.65 Tf 54.00 587.45 Td (  infrastructure-oriented systems.) Tj ET
-BT /F1 7.65 Tf 54.00 578.90 Td (- Design for failure modes as well as happy paths: validation, regression tests, data integrity, explicit error states and safe failure behavior.) Tj ET
-BT /F1 7.65 Tf 54.00 570.35 Td (- Maintain public repositories with documentation, tests, CI workflows, architecture decisions, trade-offs and known limitations.) Tj ET
-BT /F1 7.65 Tf 54.00 561.80 Td (- Current objective: turn this engineering foundation into client and contract work for B2B software, AI systems and automation.) Tj ET
-BT /F2 8.45 Tf 54.00 552.75 Td (Independent Affiliate & E-commerce Business | Digital business | Ongoing) Tj ET
-BT /F1 7.65 Tf 54.00 543.50 Td (- Current primary income stability while the software engineering track is being built.) Tj ET
-BT /F1 7.65 Tf 54.00 534.95 Td (- Earlier and ongoing experience across e-commerce, affiliate marketing, YouTube/content, sales, outreach and online customer acquisition.) Tj ET
-BT /F1 7.65 Tf 54.00 526.40 Td (- Developed practical skills in offers, customer behavior, acquisition channels, experimentation and commercial execution.) Tj ET
-BT /F2 10.50 Tf 54.00 514.85 Td (Selected Engineering Work) Tj ET
-BT /F2 8.45 Tf 54.00 503.25 Td (git-secret-scan | Python / Security) Tj ET
-BT /F1 7.65 Tf 54.00 494.00 Td (Pre-commit hook + GitHub Action that prevents API keys and tokens from reaching commits.) Tj ET
-BT /F2 7.65 Tf 54.00 485.45 Td (Evidence:) Tj ET
-BT /F1 7.65 Tf 90.14 485.45 Td ( 98 tests, 98% coverage, labelled benchmark at 100% precision / 100% recall, masking and fail-closed environment handling.) Tj ET
-BT /F2 8.45 Tf 54.00 476.40 Td (postgrest-keyset-page | Node.js / Backend) Tj ET
-BT /F1 7.65 Tf 54.00 467.15 Td (Dependency-free keyset pagination for PostgREST-style REST APIs, designed to prevent silent row loss or duplication when datasets change) Tj ET
-BT /F1 7.65 Tf 54.00 458.60 Td (during pagination.) Tj ET
-BT /F2 7.65 Tf 54.00 450.05 Td (Evidence:) Tj ET
-BT /F1 7.65 Tf 90.14 450.05 Td ( regression test reproducing the failure mode, 9 tests, CI on Linux/macOS/Windows, Node 18 and 22.) Tj ET
-BT /F2 8.45 Tf 54.00 441.00 Td (gh-radar | Python / GitHub API) Tj ET
-BT /F1 7.65 Tf 54.00 431.75 Td (Read-only GitHub assistant that watches personal repositories, filters noisy contribution opportunities, scores issues and explains why a) Tj ET
-BT /F1 7.65 Tf 54.00 423.20 Td (suggestion is worth attention.) Tj ET
-BT /F2 7.65 Tf 54.00 414.65 Td (Evidence:) Tj ET
-BT /F1 7.65 Tf 54.00 414.65 Td ( 58 tests; read-only HTTP boundary is enforced and tested.) Tj ET
-BT /F2 10.50 Tf 54.00 403.10 Td (Additional Public Projects) Tj ET
-BT /F1 7.65 Tf 54.00 392.00 Td (- ) Tj ET
-BT /F2 7.65 Tf 58.67 392.00 Td (yt-transcript) Tj ET
-BT /F1 7.65 Tf 103.30 392.00 Td ( - Python/data/automation tooling for processing YouTube transcripts and external data through fallback-oriented workflows.) Tj ET
-BT /F1 7.65 Tf 54.00 383.45 Td (- ) Tj ET
-BT /F2 7.65 Tf 58.67 383.45 Td (gitingest) Tj ET
-BT /F1 7.65 Tf 90.55 383.45 Td ( - developer tooling for structured repository-content ingestion.) Tj ET
-BT /F1 7.65 Tf 54.00 374.90 Td (- ) Tj ET
-BT /F2 7.65 Tf 76.95 374.90 Td (fahm) Tj ET
-BT /F1 7.65 Tf 54.00 374.90 Td (  - Arabic spaced-repetition product exploring practical software, offline-first behavior and IA/product workflows.) Tj ET
-BT /F2 10.50 Tf 54.00 363.35 Td (Engineering Approach) Tj ET
-BT /F1 7.65 Tf 54.00 352.25 Td (I prefer explicit, understandable systems over unnecessary complexity. I treat "it works" as a hypothesis until tests, failure handling and) Tj ET
-BT /F1 7.65 Tf 54.00 343.70 Td (reproducible evidence support it. I use AI coding agents deliberately with clearspecifications, guardrails and verification, and document) Tj ET
-BT /F1 7.65 Tf 54.00 335.15 Td (architecture decisions, trade-offs, failures and known limitations.) Tj ET
-BT /F2 10.50 Tf 54.00 323.60 Td (Education & Learning) Tj ET
-BT /F2 7.65 Tf 54.00 312.50 Td (Fachabitur - Metalltechnik) Tj ET
-BT /F1 7.65 Tf 148.37 312.50 Td ( | Completed) Tj ET
-BT /F1 7.65 Tf 54.00 303.95 Td (Software Engineering / AI / Automation | Self-directed learning | 2023 - Present) Tj ET
-BT /F1 7.65 Tf 54.00 295.40 Td (Technical ability is demonstrated through public code, projects, tests and documented engineering decisions.) Tj ET
-BT /F2 10.50 Tf 54.00 284.25 Td (Target Roles) Tj ET
-BT /F1 7.65 Tf 54.00 273.15 Td (AI Engineer | AI Automation Engineer | Product Engineer | Full-Stack Engineer | Backend Engineer | Contract Software Engineer | Founding) Tj ET
-BT /F1 7.65 Tf 54.00 264.60 Td ( Engineer | Technical Consultant) Tj ET
-BT /F2 10.50 Tf 54.00 253.49 Td (Links) Tj ET
-BT /F1 7.65 Tf 54.00 242.39 Td (GitHub: https://github.com/Atakan-24) Tj ET
-BT /F1 7.65 Tf 54.00 207.97 Td (Portfolio: https://atakan-24.github.io/) Tj ET
-BT /F1 7.65 Tf 54.00 199.42 Td (Email: atakanfisc@gmail.com) Tj ET
-BT /F1 7.20 Tf 54.00 20.00 Td (Atkan Ismail \326ztun\347) Tj ET
-BT /F1 7.20 Tf 518.46 20.00 Td (Page 1) Tj ET
-ENDTSTREAM
-endobj
-
-xref
-0 7
-0000000000 65535 f 
-0000000009 00000 n 
-000000058 00000 n 
-0000000115 00000 n 
-0000000261 00000 n 
-0000000358 00000 n 
-0000000460 00000 n 
-trailer
-<< /Size 7 /Root 1 0 R >>
-startxref
-6843
-%%EOF
+BT /F2 9.60 Tf 54.00 771.50 Td (Software Engineer | KI & Automatisierung | Product Engineering) Tj ET
+BT /F2 9.60 Tf 54.00 761.30 Td (Remote | Offen f\374r internationale Zusammenarbeit) Tj ET
+BT /F2 7.00 Tf 54.00 752.10 Td (E-Mail:) Tj ET
+BT /F1 7.00 Tf 76.95 752.10 Td ( atakanfisc@gmail.com  |  ) Tj ET
+BT /F2 7.00 Tf 159.01 752.10 Td (GitHub:) Tj ET
+BT /F1 7.00 Tf 184.67 752.10 Td ( https://github.com/Atakan-24  |  ) Tj ET
+BT /F2 7.00 Tf 285.32 752.10 Td (Portfolio:) Tj ET
+BT /F1 7.00 Tf 316.43 752.10 Td (https://atakan-24.github.io/) Tj ET
+BT /F2 10.50 Tf 54.00 739.10 Td (Profil) Tj ET
+BT /F1 7.65 Tf 54.00 728.00 Td (Autodidaktischer Software Engineer mit rund 3 Jahren praktischer Entwicklung.) Tj ET
+BT /F1 7.65 Tf 54.00 719.45 Td (Schwerpunk auf KI/LLM-Anwendungen, Automatisierung, Backend-Systeme und Full-Stack-Produkte, von der Problemdefinition bis  zu Tests, Dokumentation und Auslieferung.) Tj ET
+BT /F1 7.65 Tf 54.00 710.90 Td (Unter works sich mit 25+ Susteme/Projekten und eyne kommerzielle Perspe{t) Tj ET
+BT /F1 7.65 Tf 54.00 702.35 Td (durch laufendes Affiliate-/E-Commerce-GeschSfTen, Sales, Content und Kundengewinnung.) Tj ET
+BT /F2 10.50 Tf 54.00 690.80 Td (Technische Schwerpunkte) Tj ET
+BT /F1 7.65 Tf 54.00 679.70 Td (- Sprachen: Python, TypeScript, JavaScript / Node.js) Tj ET
+BT /F1 7.65 Tf 54.00 671.15 Td (- KI & Automatisierung: LMM-Anwendungen, AI Agents, Workflow-Automatisierung, API-Integrationen, KI-unterst\MNµtz!Entwicklung) Tj ET
+BT /F1 7.65 Tf 54.00 662.60 Td (- Backend & Daten: REST APIs, PostgreSQL, Supabase, Datenverarbeitung, Pagination, Datenkorrektheit) Tj ET
+BT /F1 7.65 Tf 54.00 654.05 Td (- Web & Produkte: Next.js, Full-Stack-Webanwendungen, Prototyping, Developer Tools) Tj ET
+BT /F1 7.65 Tf 54.00 645.50 Td (- Qualit\wvÕÑäè…ÕÑ½µ…Ñ¥Í¥•ÉÑ”Q•ÍÑÌ°I•É•ÍÍ¥½¹ÍÑ•ÍĞ°AÉ½Á•ÉÑäµ‰…Í•Q•ÍÑ¥¹œ°$½°•‰Õ¥¹œ°]…ÉÑ‰…É­•¥Ğ¤Q¨P)	P€½Ä€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ØÈà¸ĞÀQ€ ´M•ÕÉ¥ÑäèÉ•‘•¹Ñ¥…°M…¹¹¥¹œ°M•É•Ğ5…Í­¥¹œ°I•…µ½¹±äµÉ•¹é•¸°…¥°µ±½Í••Í¥¸¤Q¨P)	P€½È€ÄÀ¸ÔÀQ˜€ÔĞ¸ÀÀ€ØÄØ¸àÔQ€¡	•ÉÕ™±¥¡”É™…¡ÉÕ¹œ¤Q¨P)	P€½È€à¸ĞÔQ˜€ÔĞ¸ÀÀ€ØÀÔ¸ÈÔQ€¡%¹‘•Á•¹‘•¹ĞM½™Ñİ…É”¹¥¹••È€¼	Õ¥±‘•ÈğM•±‰ÍÑqÓ3sFæF–rÂ##2Ò†WWFR’’F¢U@¤%BôcrãcRFbSBãS“bãFB‚ÒVæB×FòÖVæB6ögGv&VVçGv–6¶ÇVærGW&6‚6VÆ'7G5Ã3CFæF–vW2ÆW&æVâÂ—FW&F—fRVçGv–6¶ÇVærVæB&¶—66†R&ö&ÆVÖÌ;g7Værâ’F¢U@¤%BôcrãcRFbSBãSƒrãCRFB‚Ò&&V—BVV&W"´’ôÄÄÒÔçvVæGVævVâÂWFöÖF—6–W'VærÂ&6¶VæBÕ6W'f–6W2ÂgVÆÂÕ7F6²Õ&öGV·FRÂ6V7W&—G’ÕFööÇ2ÂFWfVÆ÷W"FööÇ2VæB’F¢U@¤%BôcrãcRFbSBãSs‚ã“FB†–ç&7G'V·GW&VÆÆR7—7FVÖR†–çvVr’F¢U@¤%BôcrãcRFbSBãSsã3RFB‚Òfö·W2Vb&VÆRfV†ÆW&fÆÆRVæBæ–6‡BçW"†’F‡2vÆ–F–W'VærÂ&Vw&W76–öç7FW7G2ÂFFVæ–çFVw&—EÂ"rÂ‚r’F¢U@¤%BôcrãcRFbSBãScãƒFB‚ÒfV†ÆW&&V†æFÇVærâ’F¢U@¤%BôcrãcRFbSBãSS2ã#RFB‚ÒöffVçFÆ–6†R&W÷6—F÷&–W2Ö—BFö·VÖVçFF–öâÂFW7G2Â4’Õv÷&¶fÆ÷w2Â&6†—FV·GW&VçG66†V–GVævVâÂG&FRÖöfg2VæB&V¶æçFVâw&Vç¦Vââ’F¢U@¤%BôcrãcRFbSBãSCBãsFB‚Ò·GVVÆÆW"fö·W3¢F&W2·VæFVâÒVæB6öçG&7BÔ&&V—BeÃ3sG"#$"Õ6ögGv&RÂ´’Õ7—7FVÖRVæBWFöÖF—6–W'VærVçGv–6¶VÆââ’F¢U@¤%Bôc"ãSFbSBãS3RãcRFB…6VÆ'7G7EÇLÍÍ™YÙ\ÈY™š[X]KH	ˆKPÛÛ[Y\˜ÙKP\Ú[™\ÜÈYÚ][\È\Ú[™\ÜÈ›Ü]Yˆ
+HˆU•ÑŒHËHˆMŒL‹
+HZİY[ÚXÚYÚ\İHZ[›˜ZY\]Y[H[™š[˜[šY[HÜ[™YÙHØZ™[™\È]Y˜˜]\È\ˆÛÙØ\™KQ[™Ú[™Y\š[™ËS]Y˜˜Z‹ŠHˆU•ÑŒHËHˆMŒLMËH
+H\™˜Z[™È[ˆKPÛÛ[Y\˜ÙKY™š[X]HX\šÙ][™Ë[İUX™KĞÛÛ[Ø[\Ëİ]™XXÚ[™Û›[™KRİ[™[™Ù]Ú[›[™ËŠHˆU•ÑŒHËHˆMŒLKŒÌ
+H˜ZÚ\ØÚH\™˜Z[™ÈZ][™ÙX›İ[‹İ[™[™\š[[‹ZİZ\ÙZØ[—Í[‹^\š[Y[[ˆ[™ÛÛ[Y\šY[\ˆ[\Ù][™ËŠHˆU•ÑŒˆLLˆMŒMËÍH
+]\ÙÙ]×ÍH[™Ú[™Y\š[™ËT›Ú™ZİJHˆU•ÑŒˆHˆMŒ‹ŒMH
+Ú]\ÙXÜ™]\ØØ[ˆ]ÛˆÈÙXİ\š]JHˆU•ÑŒHËHˆMŒÍ‹L
+™KPÛÛ[Z]RÛÚÈ
+ÈÚ]XˆXİ[Û‹YH™\š[™\\ÜÈTKTØÚ0íœÙ[[™ÚÙ[œÈ[ˆÛÛ[Z]ÈÙ[[™Ù[‹ŠHˆU•ÑŒˆËHˆMŒŒÍH
+™[YÙNŠHˆU•ÑŒHËHˆKŒÈŒÍH
+N\İËN	HÛİ™\˜YÙK™\ØÚšY]\ˆ™[˜ÚX\šÈZ]L	H™XÚ\Ú[ÛˆÈL	H™XØ[X\ÚÚY\[™È[™
+HˆU•ÑŒHËHˆMNNL
+˜Z[PÛÜÙYQ™Z\˜™Z[™[™ËŠHˆU•ÑŒˆHˆMMKŒ
+ÜİÜ™\İZÙ^\Ù]\YÙH›ÙKšœÈÈ˜XÚÙ[™
+HˆU•ÑŒHËHˆMMŒÍH
+\[™[˜ŞKYœ™ZYHÙ^\Ù]TYÚ[˜][Ûˆ—ÍÍˆÜİÔ‘TÕWÍ›XÚH‘TÕPT\Ë[ÚXÚÙ[ÙYÙ[ˆİ[[ˆ][™\›\İÙ\ˆ\ZØ]H™ZH\˜[[[ŠHˆU•ÑŒHËHˆMŒLÌKH
+Ì™\[™Ù[‹ŠHˆU•ÑŒˆËHˆMLŒËŒÌ
+™[YÙNŠHˆU•ÑŒHËHˆKŒÈLŒËŒÌ
+™YÜ™\ÜÚ[Ûœİ\İ—ÍÍˆ[ˆ™Z\™˜[H\İËÒH]Yˆ[^ÛXXÓÔËÕÚ[™İÜË›ÙHN[™Œ‹ŠHˆU•ÑŒˆLLˆMŒLL‹ŒH
+Ú\˜Y\ˆ]ÛˆÈÚ]XˆTJHU•ÑŒHËHˆMŒL‹
+™XY[Û›KQÚ]X‹P\ÜÚ\İ[\ˆZYÙ¹”I•Á½Í¥Ñ½É¥•ÌpÌÜÑ‰•Éİ…¡Ğ°Õ¹••¥¹•Ñ”½¹ÑÉ¥‰ÕÑ¥½¸µ5ÌØÙ©±¥¡­•¥Ñ•¸™¥±Ñ•ÉĞ°%ÍÍÕ•Ì‰•İ•ÉÑ•ĞÕ¹‘¥”¤Q¨P)	P€½Ä€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ĞäÌ¸ÔÔQ€¡Y½É…¹”Õ¹U¹‘•ÈM¡±pÌĞÑ”İ¥É‰•¥ÑÉ…•¸¸¤Q¨P)	P€½Ä€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ĞàÔ¸ÀÀQ€ ´¤Q¨P)	P€½È€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ĞÜØ¸ÜÔQ€ ÄÔ€AÉ½©•¬Ô¤Q¨P)	P€½Ä€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ĞØÜ¸ÔÀQ€¡5½É”€ ¥¹±¥¹Ì¤Q¨P)	P€½Ä€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ĞÔä¸ÀÀQ€ µ±¥ÍĞ½Ñ¡•ÉÌ¸¤Q¨P)	P€½Ä€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ĞÔÀ¸ÔÀQ€ ´¤Q¨P)	P€½È€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ĞĞÄ¸äÔQ€¡1¥¹­Ì¤Q¨P)	P€½Ä€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ĞÌÀ¸ÄÀQ€¡¥Ñ!Õˆè¡ÑÑÁÌè¼½¥Ñ¡Õˆ¹½´½Ñ…­…¸´ÈĞ¤Q¨P)	P€½Ä€Ü¸ØÔQ˜€ÔĞ€ÌĞÈ¸ÜÔQ€¡A½ÉÑ™½±¥¼è¡ÑÑÁÌè¼½…Ñ…­…¸´ÈĞ¹¥Ñ¡Õˆ¹¥¼¼¤Q¨P)	P€½Ä€Ü¸ØÔQ˜€ÔĞ¸ÀÀ€ÌÌÔ¸ĞÀQ€¡µ5…¥°è…Ñ…­…¹™¥Íµ…¥°¹½´¤Q¨P)	P€½Ä€Ü¸ÈÀQ˜€ÔĞ¸ÀÀ€ÈÀ¸ÀÀQ€¡Ñ­…¸%Íµ…¥°pÌÈÙéÑÕ¹pÌĞÜ¤Q¨P)	P€½Ä€Ü¸ÈÀQ˜€ÔÄà¸ĞØ€ÈÀ¸ÀÀQ€¡A…”€Ä¤Q¨P)9QMQI4)•¹‘½‰¨()áÉ•˜(À€Ü(ÀÀÀÀÀÀÀÀÀÀ€ØÔÔÌÔ˜€(ÀÀÀÀÀÀÀÀÀä€ÀÀÀÀÀ¸€(ÀÀÀÀÀÀÀÀÔà€ÀÀÀÀÀ¸€(ÀÀÀÀÀÀÀÄÄÔ€ÀÀÀÀÀ¸€(ÀÀÀÀÀÀÀÈØÄ€ÀÀÀÀÀ¸€(ÀÀÀÀÀÀÀÌÔà€ÀÀÀÀÀ¸€(ÀÀÀÀÀÀÀĞØÀ€ÀÀÀÀÀ¸€)ÑÉ…¥±•È(ğğ€½M¥é”€Ü€½I½½Ğ€Ä€ÀH€øø)ÍÑ…ÉÑáÉ•˜(àÜÄÔ(”•=
