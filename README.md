@@ -9,6 +9,17 @@ keeps it all running with a human approving the decisions that matter.
 [![Ask me directly](https://img.shields.io/badge/Ask_me_directly-AI_chat-7dd3c0?style=flat-square)](https://atakan-24.github.io/#frag-mich)
 [![Email](https://img.shields.io/badge/Email-atakanfisc%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:atakanfisc@gmail.com)
 
+#### Selected engineering projects
+
+| Project | What it demonstrates |
+|---|---|
+| [**Windows Screen Time Manager**](https://github.com/Atakan-24/windows-screen-time-manager) | Windows systems engineering: PowerShell, SYSTEM tasks, sessions, ACLs, Win32/.NET and PBKDF2. |
+| [**Team Gold CRM Showcase**](https://github.com/Atakan-24/team-gold-crm-showcase) | A sanitized case study of a private production CRM: Next.js, TypeScript, Supabase, WebRTC and outreach automation. Architecture and selected source; no customer data or production access. |
+| [**AutoLM**](https://github.com/Atakan-24/autolm) | Transformer, tokenizer and training pipeline built from scratch, with an evaluation harness for n8n workflow generation. Experimental work with documented results and limitations. |
+| [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Credential detection before commits, with documented evaluation and automated checks. |
+| [**gh-radar**](https://github.com/Atakan-24/gh-radar) | A read-only GitHub digest that prioritizes requests needing attention. |
+| [**postgrest-keyset-page**](https://github.com/Atakan-24/postgrest-keyset-page) | Cursor pagination for REST APIs, with a reproduced offset-pagination failure under concurrent changes. |
+
 #### Resume / CV
 
 | Version | Markdown (GitHub) | PDF (application) | DOCX (editable) |
@@ -44,18 +55,15 @@ voice/WebRTC, LLM voice agents) and the multi-agent automation layer that
 runs it — one human approving the decisions that actually matter, not
 every step.
 
-#### Public repositories
+#### More public projects
 
-| | | |
-|---|---|---|
-| [**windows-screen-time-manager**](https://github.com/Atakan-24/windows-screen-time-manager) | Windows screen-time and parental-control system built for a real family PC | PowerShell, SYSTEM scheduled tasks, WTS session handling, ACLs, Win32/.NET and PBKDF2; guided installer available, fresh-PC installation still under verification |
-| [**gh-radar**](https://github.com/Atakan-24/gh-radar) | Daily digest of what actually needs you on GitHub — read-only by construction | HTTP layer refuses every method but GET, CI asserts it; 58 tests |
-| [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Pre-commit hook + GitHub Action that stops API keys reaching a commit | Measured recall **80% → 100%**, 98 tests, CI on 3 OS × 3 Python versions |
-| [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | YouTube transcripts with a four-tier fallback chain | Routes around per-IP rate limits via an SSH relay; 40 tests |
-| [**gitingest**](https://github.com/Atakan-24/gitingest) | Flattens a repository into one searchable file | Refuses to truncate — falls back to structure instead |
-| [**fahm**](https://github.com/Atakan-24/fahm) | Arabic spaced-repetition app, [live](https://fahm-web.vercel.app) | 3,177 lines in one HTML file, no framework, offline PWA |
-| [**postgrest-keyset-page**](https://github.com/Atakan-24/postgrest-keyset-page) | Cursor pagination for PostgREST-style REST APIs | Fixes a real bug: offset pagination silently drops/duplicates rows under concurrent writes; the failure is reproduced live in the test suite |
-| [**portfolio-tracker**](https://github.com/Atakan-24/portfolio-tracker) | Backend behind this site's analytics and "Ask me directly" chat | Never stores an IP or a name — country comes from a transient geolocation lookup, the chat is grounded to a fixed knowledge block and says "I don't know" instead of guessing |
+| Project | Focus |
+|---|---|
+| [**linux-werkzeuge**](https://github.com/Atakan-24/linux-werkzeuge) | Bash/Python workstation tooling, XFCE, systemd and service-hardening examples. |
+| [**portfolio-tracker**](https://github.com/Atakan-24/portfolio-tracker) | Supabase Edge Functions for visitor analytics and a portfolio-grounded AI chat. |
+| [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | Transcript extraction with multiple fallback paths. |
+| [**gitingest**](https://github.com/Atakan-24/gitingest) | Turns a GitHub repository into a searchable text file. |
+| [**fahm**](https://github.com/Atakan-24/fahm) | Arabic vocabulary practice with spaced repetition and offline PWA support; [live app](https://fahm-web.vercel.app). |
 
 #### How I work
 
