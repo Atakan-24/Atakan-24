@@ -25,10 +25,10 @@ keeps it all running with a human approving the decisions that matter.
 
 | Project | Purpose | Engineering focus |
 |---|---|---|
-| [**Windows Screen Time Manager**](https://github.com/Atakan-24/windows-screen-time-manager) | Screen-time and parental controls for Windows | PowerShell, SYSTEM tasks, sessions, ACLs and Win32/.NET |
 | [**Team Gold CRM Showcase**](https://github.com/Atakan-24/team-gold-crm-showcase) | Sanitized case study of a production sales CRM | Next.js, TypeScript, Supabase, WebRTC and outreach automation |
-| [**AutoLM**](https://github.com/Atakan-24/autolm) | Language-model implementation and workflow-generation experiments | Transformer, tokenizer, training pipeline and evaluation |
 | [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Detect supported credentials before they reach Git | Pre-commit hook, GitHub Actions and documented benchmarks |
+| [**AutoLM**](https://github.com/Atakan-24/autolm) | Language-model implementation and workflow-generation experiments | Transformer, tokenizer, training pipeline and evaluation |
+| [**Windows Screen Time Manager**](https://github.com/Atakan-24/windows-screen-time-manager) | Screen-time and parental controls for Windows | PowerShell, SYSTEM tasks, sessions, ACLs and Win32/.NET |
 
 #### Production / Commercial Work
 
