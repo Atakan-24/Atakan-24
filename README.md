@@ -10,24 +10,7 @@ keeps it all running with a human approving the decisions that matter.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atakan-ismail-%C3%B6ztun%C3%A7-8b9574426/)
 [![Email](https://img.shields.io/badge/Email-atakanfisc%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:atakanfisc@gmail.com)
 
-#### Resume / CV
-
-| Version | Markdown (GitHub) | PDF (application) | DOCX (editable) |
-|---|---|---|---|
-| 🇬🇧 **English CV** | [View](./CV_Atkan_Ismail_Oeztunc_EN.md) | [Open / download](./CV_Atkan_Ismail_Oeztunc_EN.pdf) | [Download](./CV_Atkan_Ismail_Oeztunc_EN.docx) |
-| 🇩🇪 **Deutscher Lebenslauf** | [Öffnen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md) | [Öffnen / herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.pdf) | [Herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.docx) |
-| 🌐 **Portfolio** | - | [atakan-24.github.io](https://atakan-24.github.io/) | - |
-
-> The CV is maintained in three formats, each for a different purpose: **Markdown** is the GitHub/developer-facing version, **PDF** is the final, application-ready file, and **DOCX** is the editable master used to produce both. Content is kept identical across all three; only the format differs.
-
-#### Goals & Direction (2026-2027)
-
-Why I didn't take a conventional apprenticeship route into IT, what I'm actually working toward over the next 12 months, and what happens if the plan doesn't work out.
-
-| Version | Markdown (GitHub) | PDF | DOCX (editable) |
-|---|---|---|---|
-| 🇬🇧 **English** | [View](./My_Goals_2026_2027_EN.md) | [Open / download](./My_Goals_2026_2027_EN.pdf) | [Download](./My_Goals_2026_2027_EN.docx) |
-| 🇩🇪 **Deutsch** | [Öffnen](./Meine_Ziele_2026_2027_DE.md) | [Öffnen / herunterladen](./Meine_Ziele_2026_2027_DE.pdf) | [Herunterladen](./Meine_Ziele_2026_2027_DE.docx) |
+#### Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -38,13 +21,6 @@ Why I didn't take a conventional apprenticeship route into IT, what I'm actually
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-#### Currently building
-
-An AI-operated cold-calling platform (Next.js, Supabase, Telnyx
-voice/WebRTC, LLM voice agents) and the multi-agent automation layer that
-runs it — one human approving the decisions that actually matter, not
-every step.
-
 #### Featured Projects
 
 | Project | Purpose | Engineering focus |
@@ -53,6 +29,16 @@ every step.
 | [**Team Gold CRM Showcase**](https://github.com/Atakan-24/team-gold-crm-showcase) | Sanitized case study of a production sales CRM | Next.js, TypeScript, Supabase, WebRTC and outreach automation |
 | [**AutoLM**](https://github.com/Atakan-24/autolm) | Language-model implementation and workflow-generation experiments | Transformer, tokenizer, training pipeline and evaluation |
 | [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Detect supported credentials before they reach Git | Pre-commit hook, GitHub Actions and documented benchmarks |
+
+#### Production / Commercial Work
+
+I build and operate sales software through [TEAM GOLD](https://teamgoldllc.de), connecting lead workflows, browser calling, email outreach and automation.
+
+The [Team Gold CRM Showcase](https://github.com/Atakan-24/team-gold-crm-showcase) documents the private system's architecture and selected source components. It is a sanitized case study; customer records and production access remain private.
+
+#### Open Source Contribution
+
+[**PokeAPI — pull request #1674**](https://github.com/PokeAPI/pokeapi/pull/1674): investigated CSV move-effect references, proposed a fix and added regression tests. **Open as of October 7, 2026; the displayed CI checks passed.** The original bug was also addressed by another contribution; narrowing this proposal to useful regression coverage is the next step. This is a submitted contribution, not a merged change.
 
 #### More Projects
 
@@ -65,6 +51,23 @@ every step.
 | [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | Transcript extraction with multiple fallback paths |
 | [**gitingest**](https://github.com/Atakan-24/gitingest) | Repository-to-text tool |
 | [**fahm**](https://github.com/Atakan-24/fahm) | Arabic vocabulary practice with spaced repetition |
+
+#### Resume / CV
+
+| Version | Markdown (GitHub) | PDF (application) | DOCX (editable) |
+|---|---|---|---|
+| 🇬🇧 **English CV** | [View](./CV_Atkan_Ismail_Oeztunc_EN.md) | [Open / download](./CV_Atkan_Ismail_Oeztunc_EN.pdf) | [Download](./CV_Atkan_Ismail_Oeztunc_EN.docx) |
+| 🇩🇪 **Deutscher Lebenslauf** | [Öffnen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.md) | [Öffnen / herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.pdf) | [Herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.docx) |
+| 🌐 **Portfolio** | - | [atakan-24.github.io](https://atakan-24.github.io/) | - |
+
+> The CV is maintained in three formats, each for a different purpose: **Markdown** is the GitHub/developer-facing version, **PDF** is the final, application-ready file, and **DOCX** is the editable master used to produce both. Content is kept identical across all three; only the format differs.
+
+#### Currently building
+
+An AI-operated cold-calling platform (Next.js, Supabase, Telnyx
+voice/WebRTC, LLM voice agents) and the multi-agent automation layer that
+runs it — one human approving the decisions that actually matter, not
+every step.
 
 #### How I work
 
@@ -105,3 +108,15 @@ automation, and the infrastructure that keeps them running.
 [![Book a call](https://img.shields.io/badge/Book_a_30--min_call-cal.com-000000?style=flat-square&logo=googlecalendar&logoColor=white)](https://cal.com/atakanoztunc/30min)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-message_me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201069564012)
 [![Telegram](https://img.shields.io/badge/Telegram-message_me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Akioatakan)
+
+---
+
+#### Goals & Direction (2026-2027)
+
+Why I didn't take a conventional apprenticeship route into IT, what I'm actually working toward over the next 12 months, and what happens if the plan doesn't work out.
+
+| Version | Markdown (GitHub) | PDF | DOCX (editable) |
+|---|---|---|---|
+| 🇬🇧 **English** | [View](./My_Goals_2026_2027_EN.md) | [Open / download](./My_Goals_2026_2027_EN.pdf) | [Download](./My_Goals_2026_2027_EN.docx) |
+| 🇩🇪 **Deutsch** | [Öffnen](./Meine_Ziele_2026_2027_DE.md) | [Öffnen / herunterladen](./Meine_Ziele_2026_2027_DE.pdf) | [Herunterladen](./Meine_Ziele_2026_2027_DE.docx) |
+
