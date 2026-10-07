@@ -1,4 +1,4 @@
-# Atkan Ismail Öztunç
+# Atakan Ismail Öztunç
 
 **PDF version:** [Download application-ready PDF](./CV_Atkan_Ismail_Oeztunc_EN.pdf) · **Editable master:** [Download DOCX](./CV_Atkan_Ismail_Oeztunc_EN.docx)
 
