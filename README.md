@@ -44,21 +44,26 @@ voice/WebRTC, LLM voice agents) and the multi-agent automation layer that
 runs it — one human approving the decisions that actually matter, not
 every step.
 
-#### Public repositories
+#### Featured Projects
 
-| | | |
+| Project | Purpose | Engineering focus |
 |---|---|---|
-| [**windows-screen-time-manager**](https://github.com/Atakan-24/windows-screen-time-manager) | Windows screen-time and parental-control system built for a real family PC | PowerShell, SYSTEM scheduled tasks, WTS session handling, ACLs, Win32/.NET and PBKDF2; guided installer available, fresh-PC installation still under verification |
-| [**team-gold-crm-showcase**](https://github.com/Atakan-24/team-gold-crm-showcase) | Sanitized portfolio edition of a private production CRM | Next.js, TypeScript, Supabase/PostgreSQL, Telnyx WebRTC and outreach automation; architecture and selected source components |
-| [**autolm**](https://github.com/Atakan-24/autolm) | Language model and workflow-generation evaluation built from scratch | Transformer, tokenizer, training pipeline and n8n evaluation harness; documented experiments and limitations |
-| [**linux-werkzeuge**](https://github.com/Atakan-24/linux-werkzeuge) | Tools and configuration for a Linux workstation | Bash, Python, XFCE, systemd and service-hardening examples, with documentation and CI |
-| [**gh-radar**](https://github.com/Atakan-24/gh-radar) | Daily digest of what actually needs you on GitHub — read-only by construction | HTTP layer refuses every method but GET, CI asserts it; 58 tests |
-| [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Pre-commit hook + GitHub Action that stops API keys reaching a commit | Measured recall **80% → 100%**, 98 tests, CI on 3 OS × 3 Python versions |
-| [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | YouTube transcripts with a four-tier fallback chain | Routes around per-IP rate limits via an SSH relay; 40 tests |
-| [**gitingest**](https://github.com/Atakan-24/gitingest) | Flattens a repository into one searchable file | Refuses to truncate — falls back to structure instead |
-| [**fahm**](https://github.com/Atakan-24/fahm) | Arabic spaced-repetition app, [live](https://fahm-web.vercel.app) | 3,177 lines in one HTML file, no framework, offline PWA |
-| [**postgrest-keyset-page**](https://github.com/Atakan-24/postgrest-keyset-page) | Cursor pagination for PostgREST-style REST APIs | Fixes a real bug: offset pagination silently drops/duplicates rows under concurrent writes; the failure is reproduced live in the test suite |
-| [**portfolio-tracker**](https://github.com/Atakan-24/portfolio-tracker) | Backend behind this site's analytics and "Ask me directly" chat | Never stores an IP or a name — country comes from a transient geolocation lookup, the chat is grounded to a fixed knowledge block and says "I don't know" instead of guessing |
+| [**Windows Screen Time Manager**](https://github.com/Atakan-24/windows-screen-time-manager) | Screen-time and parental controls for Windows | PowerShell, SYSTEM tasks, sessions, ACLs and Win32/.NET |
+| [**Team Gold CRM Showcase**](https://github.com/Atakan-24/team-gold-crm-showcase) | Sanitized case study of a production sales CRM | Next.js, TypeScript, Supabase, WebRTC and outreach automation |
+| [**AutoLM**](https://github.com/Atakan-24/autolm) | Language-model implementation and workflow-generation experiments | Transformer, tokenizer, training pipeline and evaluation |
+| [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Detect supported credentials before they reach Git | Pre-commit hook, GitHub Actions and documented benchmarks |
+
+#### More Projects
+
+| Project | Focus |
+|---|---|
+| [**gh-radar**](https://github.com/Atakan-24/gh-radar) | Read-only GitHub digest and prioritization |
+| [**postgrest-keyset-page**](https://github.com/Atakan-24/postgrest-keyset-page) | Reliable cursor pagination for REST APIs |
+| [**linux-werkzeuge**](https://github.com/Atakan-24/linux-werkzeuge) | Linux workstation tooling and service-hardening examples |
+| [**portfolio-tracker**](https://github.com/Atakan-24/portfolio-tracker) | Portfolio analytics and a grounded AI chat |
+| [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | Transcript extraction with multiple fallback paths |
+| [**gitingest**](https://github.com/Atakan-24/gitingest) | Repository-to-text tool |
+| [**fahm**](https://github.com/Atakan-24/fahm) | Arabic vocabulary practice with spaced repetition |
 
 #### How I work
 
