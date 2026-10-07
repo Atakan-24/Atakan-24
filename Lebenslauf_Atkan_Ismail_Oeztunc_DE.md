@@ -1,90 +1,62 @@
 # Atkan Ismail Öztunç
 
-**PDF-Version:** [Bewerbungs-PDF herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.pdf) · **Bearbeitbare Masterdatei:** [DOCX herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.docx)
+Junior Backend / Full-Stack Developer · Python, TypeScript, APIs
 
-**Software Engineer | KI & Automatisierung | Product Engineering**
+Ägypten · Remote · Rückkehr nach Deutschland für eine passende Stelle möglich
 
-**Remote | Offen für internationale Zusammenarbeit**
-
-**E-Mail:** atakanfisc@gmail.com  |  **GitHub:** https://github.com/Atakan-24  |  **Portfolio:** https://atakan-24.github.io/
+[atakanfisc@gmail.com](mailto:atakanfisc@gmail.com) · [GitHub](https://github.com/Atakan-24) · [Portfolio](https://atakan-24.github.io/de/) · [LinkedIn](https://www.linkedin.com/in/atakan-ismail-%C3%B6ztun%C3%A7-8b9574426/)
 
 ## Profil
 
-Autodidaktischer Software Engineer mit rund 3 Jahren praktischer Entwicklungserfahrung, mit Schwerpunkt auf KI, Automatisierung, Backend-Systemen, Full-Stack-Produktentwicklung und Zuverlässigkeit. Ich entwickle Lösungen von der Problemdefinition über Implementierung, Tests und Dokumentation bis zur Auslieferung. Mein öffentliches GitHub zeigt praktische Engineering-Erfahrung in Security-Tools, Datenkorrektheit, GitHub-Integrationen, Developer Tools und KI-orientierten Produkten. Vor der Softwareentwicklung habe ich E-Commerce, Affiliate Marketing, Content, Sales und Online-Kundengewinnung betrieben und bringe deshalb zusätzlich eine kommerzielle und produktorientierte Perspektive mit.
+Ich entwickle Python-Werkzeuge, API-Integrationen und Webanwendungen. Seit 2023 arbeite ich praktisch an eigenen Softwareprojekten und an Abläufen meiner selbstständigen Tätigkeit. Ich suche eine Junior-Stelle im Backend oder Full-Stack-Bereich, in der ich meine Entwicklungspraxis in ein Team einbringen und vertiefen kann.
 
 ## Technische Schwerpunkte
 
-- **Sprachen & Runtime:** Python, TypeScript, JavaScript / Node.js
-- **KI & Automatisierung:** LLM-Anwendungen, AI Agents, Workflow-Automatisierung, API-Integrationen, KI-unterstützte Entwicklung
-- **Backend & Daten:** REST APIs, PostgreSQL, Supabase, Datenverarbeitung, Pagination und Datenkorrektheit
-- **Web & Produkte:** Next.js, Full-Stack-Webanwendungen, Prototyping, Developer Tools
-- **Qualität & Zuverlässigkeit:** Tests, Regression Prevention, Property-based Testing, CI/CD, Fehlerbehandlung, Wartbarkeit
-- **Security:** Credential Scanning, Secret Masking, Read-only API-Grenzen, Fail-Closed Design
+- Python: Datenverarbeitung, CLI-Werkzeuge, pytest, Property- und Regressionstests.
+- TypeScript / JavaScript: Next.js, React, Node.js, REST-APIs.
+- Daten und Integrationen: PostgreSQL, Supabase, n8n, Telnyx / WebRTC, Resend.
+- Werkzeuge: Git, GitHub Actions, Linux, PowerShell; PyTorch im Forschungsprojekt AutoLM.
 
-## Berufliche Erfahrung
+## Selbstständige Tätigkeit und Softwareprojekte
 
-### Independent Software Engineer / Builder | Selbstständig / autodidaktisch | 2023 - heute
+2023 - heute · Praktische Softwareentwicklung durch eigene Projekte und selbstständige Arbeit
 
-- End-to-end Softwareentwicklung durch selbstständiges Lernen, praktische Experimente und iterative Projektarbeit.
-- Arbeit über KI/LLM-Anwendungen, Automatisierung, Backend-Services, Full-Stack-Produkte, Security-Tools, Developer Tools und Infrastrukturthemen hinweg.
-- Fokus auf reale Fehlerfälle statt nur Happy Paths: Validierung, Regressionstests, Datenintegrität, explizite Fehlerzustände und Fail-Closed-Verhalten.
-- Öffentliche GitHub-Repositories mit Dokumentation, Tests, CI-Workflows, Architekturentscheidungen, Trade-offs und bekannten Grenzen.
-- Aktueller Fokus: daraus Kunden- und Contract-Arbeit für B2B-Software, KI-Systeme und Automatisierung entwickeln.
+- Entwicklung von Werkzeugen für Datenverarbeitung, Automatisierung und Webanwendungen.
+- Arbeit am Team Gold CRM für Lead-Verarbeitung, Vertriebsaufgaben, Browser-Telefonie und E-Mail-Abläufe. Öffentliche Architektur-Fallstudie; der Systemcode bleibt privat.
+- Zusätzlich selbstständige Geschäftstätigkeit in E-Commerce, Affiliate-Marketing und Online-Kundengewinnung. Team Gold ist meine Firma; die Unternehmenswebsite ist vom Entwickler-Portfolio getrennt.
 
-### Affiliate / E-Commerce & Online Business | Selbstständiges digitales Business | fortlaufend
+## Ausgewählte Projekte
 
-- Aktuell wichtigste Einnahmequelle und finanzielle Grundlage während des Aufbaus der beruflichen Software-Laufbahn.
-- Frühere Erfahrung in E-Commerce, Affiliate Marketing, YouTube/Content, Sales, Outreach und Online-Kundengewinnung.
-- Praktische Erfahrung mit Angeboten, Kundenverhalten, Akquisekanälen, Experimenten und kommerzieller Umsetzung.
+### Team Gold CRM · Next.js / TypeScript / PostgreSQL
 
-## Ausgewählte Engineering-Projekte
+Fallstudie eines CRM mit Supabase Auth, Browser-Telefonie und Provider-Integrationen. Die Architektur ist öffentlich dokumentiert, der Systemcode bleibt privat. Tests prüfen die veröffentlichten Hilfsfunktionen für Telefonnummern, E-Mail-Adressen und Empfänger-Deduplizierung.
 
-### git-secret-scan | Python / Security
+[Repository](https://github.com/Atakan-24/team-gold-crm-showcase)
 
-Pre-Commit-Hook und GitHub Action, die verhindert, dass API-Schlüssel und Tokens in Commits gelangen. Enthält Maskierung, mehrere Credential-Muster, lokale und CI-Prüfungen sowie explizite Fehlerbehandlung.
+### git-secret-scan · Python / Git
 
-**Belege:** 98 Tests | 98 % Coverage | Benchmark: 100 % Precision / 100 % Recall im beschrifteten Testkorpus
+Pre-Commit-Hook und GitHub Action für zehn Arten von Zugangsdaten. Maskierte Ausgabe, explizite Git-Fehler, Tests mit realen Git-Repositories und Property-Tests. Reproduzierbarer Benchmark mit synthetischen Testfällen.
 
-### postgrest-keyset-page | Node.js / Backend
+[Repository](https://github.com/Atakan-24/git-secret-scan)
 
-Dependency-freie Keyset-Pagination für PostgREST-ähnliche REST-APIs, entwickelt gegen stillen Datenverlust oder Duplikate bei Änderungen während der Pagination.
+### AutoLM · Python / PyTorch
 
-**Belege:** 9 Tests | CI auf Linux, macOS, Windows | Node 18 und 22
+Decoder-only-Transformer mit eigener Tokenisierung, Trainingspipeline und Workflow-Evaluation. Vergleichstests für Attention und Tokenizer, Checkpoint-Resume und Baselines. Experimentelles n8n-Workflow-Modell mit Struktur- und Importprüfung der generierten Gerüste.
 
-### gh-radar | Python / GitHub API
+[Repository](https://github.com/Atakan-24/autolm)
 
-Read-only GitHub-Assistent, der eigene Repositories überwacht, ungeeignete Contribution-Möglichkeiten herausfiltert, Issues bewertet und die Gründe für Vorschläge erklärt.
+### Windows Screen Time Manager · PowerShell / C#
 
-**Belege:** 58 Tests | Read-only-HTTP-Grenze wird technisch erzwungen und getestet
+Systemweite Zeitlimits über SYSTEM-Tasks, WTS-Sitzungen und Win32/.NET. Getrennte ACLs für Konfiguration und Statusanzeige; Syntax- und reine Logiktests. Vollständige Installer-Integration auf einem frischen Windows-System noch offen.
 
-## Weitere öffentliche Projekte
+[Repository](https://github.com/Atakan-24/windows-screen-time-manager)
 
-- **yt-transcript** | Python / Daten / Automatisierung — Werkzeuge zur Verarbeitung von YouTube-Transkripten und zur Einbindung externer Datenquellen über einen Fallback-orientierten Workflow. 40 Tests im öffentlichen Profil dokumentiert.
-- **gitingest** | Developer Tooling — Strukturierte Verarbeitung von Repository-Inhalten für besser durchsuchbare und produktivere Entwickler-Workflows.
-- **fahm** | Software / KI / Lernen — Arabische Spaced-Repetition-Anwendung mit Fokus auf praktische Produktentwicklung, Offline-Verhalten und KI-/Produkt-Workflows.
+## Ausbildung und Arbeitsweise
 
-## Arbeitsweise
+Fachabitur, Fachrichtung Metalltechnik · abgeschlossen
 
-- Ich bevorzuge kleine, explizite Systeme, die sich gut verstehen und verifizieren lassen, statt unnötiger Komplexität.
-- „Es funktioniert" ist für mich zunächst eine Behauptung, bis Tests, Fehlerbehandlung und reproduzierbare Belege sie stützen.
-- Ich setze KI-Coding-Agents bewusst ein - mit klaren Spezifikationen, Guardrails und Verifikation statt blindem Vertrauen in generierten Code.
-- Ich dokumentiere, warum eine Architektur gewählt wurde, welche Trade-offs bestehen, was kaputtging und was ein System bewusst nicht tut.
+Keine klassische IT-Ausbildung und bisher keine Festanstellung als Softwareentwickler. Meine technischen Arbeitsproben sind öffentlich dokumentiert. Ich nutze KI-Unterstützung beim Entwickeln und prüfe Code, Architekturentscheidungen und Verhalten mit Tests.
 
-## Ausbildung & selbstständiges Lernen
+## Sprachen
 
-**Fachabitur - Fachrichtung Metalltechnik** | Schulische Ausbildung | abgeschlossen
-
-**Software Engineering / KI / Automatisierung | Selbstständige technische Ausbildung | 2023 - heute**
-
-- Rund drei Jahre intensives praktisches Lernen durch Bauen, Debugging, Tests, Dokumentation und produktionsnahe Experimente.
-- Nicht-traditioneller Weg: kein Hochschulabschluss; technische Fähigkeiten werden durch öffentliche Arbeitsproben, Code und dokumentierte Engineering-Entscheidungen belegt.
-
-## Passende Rollen
-
-AI Engineer | AI Automation Engineer | Product Engineer | Full-Stack Engineer | Backend Engineer | Contract Software Engineer | Founding Engineer | Technical Consultant
-
-## Links
-
-GitHub: https://github.com/Atakan-24
-Portfolio: https://atakan-24.github.io/
-E-Mail: atakanfisc@gmail.com
+Deutsch: fließend · Englisch: gut
