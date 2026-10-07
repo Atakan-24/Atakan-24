@@ -48,6 +48,7 @@ every step.
 
 | | | |
 |---|---|---|
+| [**windows-screen-time-manager**](https://github.com/Atakan-24/windows-screen-time-manager) | Windows screen-time and parental-control system built for a real family PC | PowerShell, SYSTEM scheduled tasks, WTS session handling, ACLs, Win32/.NET and PBKDF2; guided installer available, fresh-PC installation still under verification |
 | [**gh-radar**](https://github.com/Atakan-24/gh-radar) | Daily digest of what actually needs you on GitHub — read-only by construction | HTTP layer refuses every method but GET, CI asserts it; 58 tests |
 | [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Pre-commit hook + GitHub Action that stops API keys reaching a commit | Measured recall **80% → 100%**, 98 tests, CI on 3 OS × 3 Python versions |
 | [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | YouTube transcripts with a four-tier fallback chain | Routes around per-IP rate limits via an SSH relay; 40 tests |
