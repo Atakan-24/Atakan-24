@@ -78,9 +78,9 @@ Why I didn't take a conventional apprenticeship route into IT, what I'm actually
 
 #### How I work
 
-I direct AI coding agents deliberately — clear specifications, hard
-guardrails, and treating every "it's done" as a claim to verify, not a
-fact.
+I turn business workflows into working software — from defining requirements
+and implementation to testing and deployment. I use AI-assisted tools
+where useful and verify the results before shipping.
 
 <details><summary><strong>My journey</strong> — a non-traditional path into engineering</summary>
 <br>
