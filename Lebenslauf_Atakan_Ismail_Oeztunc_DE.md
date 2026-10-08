@@ -1,6 +1,6 @@
 # Atakan Ismail Öztunç
 
-**PDF-Version:** [Bewerbungs-PDF herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.pdf) · **Bearbeitbare Masterdatei:** [DOCX herunterladen](./Lebenslauf_Atkan_Ismail_Oeztunc_DE.docx)
+**PDF-Version:** [Bewerbungs-PDF herunterladen](./Lebenslauf_Atakan_Ismail_Oeztunc_DE.pdf) · **Bearbeitbare Masterdatei:** [DOCX herunterladen](./Lebenslauf_Atakan_Ismail_Oeztunc_DE.docx)
 
 **Software Engineer | KI & Automatisierung | Product Engineering**
 
