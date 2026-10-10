@@ -79,9 +79,7 @@ Why I didn't take a conventional apprenticeship route into IT, what I'm actually
 
 #### How I work
 
-I turn business workflows into working software — from defining requirements
-and implementation to testing and deployment. I use AI-assisted tools
-where useful and verify the results before shipping.
+→ [**multi-machine-agent-sync**](https://github.com/Atakan-24/multi-machine-agent-sync)
 
 <details><summary><strong>My journey</strong> — a non-traditional path into engineering</summary>
 <br>
