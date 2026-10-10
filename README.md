@@ -46,6 +46,7 @@ keeps it all running with a human approving the decisions that matter.
 |---|---|
 | [**gh-radar**](https://github.com/Atakan-24/gh-radar) | Read-only GitHub digest and prioritization |
 | [**postgrest-keyset-page**](https://github.com/Atakan-24/postgrest-keyset-page) | Reliable cursor pagination for REST APIs |
+| [**multi-machine-agent-sync**](https://github.com/Atakan-24/multi-machine-agent-sync) | Shared context and Git backup for Claude Code and Codex across macOS, Linux and Windows |
 | [**linux-werkzeuge**](https://github.com/Atakan-24/linux-werkzeuge) | Linux workstation tooling and service-hardening examples |
 | [**portfolio-tracker**](https://github.com/Atakan-24/portfolio-tracker) | Portfolio analytics and a grounded AI chat |
 | [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | Transcript extraction with multiple fallback paths |
