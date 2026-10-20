@@ -1,4 +1,4 @@
-### Hi, I'm Atakan 👋
+### Hi, I'm Atakan Ismail Öztunç 👋
 
 I build production systems end to end — a cold-calling CRM used by a real
 sales team every day, a lead-generation data pipeline that runs
