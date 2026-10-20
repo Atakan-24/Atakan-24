@@ -39,6 +39,7 @@ keeps it all running with a human approving the decisions that matter.
 | [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Detect supported credentials before they reach Git | Pre-commit hook, GitHub Actions and documented benchmarks |
 | [**AutoLM**](https://github.com/Atakan-24/autolm) | Language-model implementation and workflow-generation experiments | Transformer, tokenizer, training pipeline and evaluation |
 | [**Windows Screen Time Manager**](https://github.com/Atakan-24/windows-screen-time-manager) | Screen-time and parental controls for Windows | PowerShell, SYSTEM tasks, sessions, ACLs and Win32/.NET |
+| [**AI Voice Agent + Demo Videos**](https://github.com/Atakan-24/ai-voice-agent-demo) | Hands-on case study of an AI phone receptionist and its video pipeline | Telnyx voice, text-to-speech, HTML-to-video, bilingual EN/DE |
 
 #### More Projects
 
