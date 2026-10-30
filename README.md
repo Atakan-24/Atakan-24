@@ -1,9 +1,6 @@
 ### Hi, I'm Atakan Ismail Öztunç 👋
 
-I build production systems end to end — a cold-calling CRM used by a real
-sales team every day, a lead-generation data pipeline that runs
-unattended around the clock, and a multi-agent AI operations layer that
-keeps it all running with a human approving the decisions that matter.
+I build and operate software that people rely on — from applications used daily by real teams to automated data pipelines and AI-powered systems. My work spans full-stack development, integrations, and automation, taking projects from the initial idea to deployment and keeping them running in practice.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-25_systems-7dd3c0?style=flat-square)](https://atakan-24.github.io/)
 [![Ask me directly](https://img.shields.io/badge/Ask_me_directly-AI_chat-7dd3c0?style=flat-square)](https://atakan-24.github.io/#frag-mich)
