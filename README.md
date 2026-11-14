@@ -98,7 +98,6 @@ above grew out of that: I don't build software in the abstract, I build it
 because a real workflow needed it, then operate it long enough to find out
 what breaks.
 
-I didn't take the university route. What replaced it was building things,
-breaking them, and fixing them in production, repeatedly.
+I learned by building things, breaking them, and fixing them in production, repeatedly.
 
 </details>

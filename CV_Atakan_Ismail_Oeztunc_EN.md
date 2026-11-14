@@ -77,7 +77,7 @@ Read-only GitHub assistant that watches personal repositories, filters noisy con
 **Software Engineering / AI / Automation | Self-directed engineering | 2023 - Present**
 
 - Approximately three years of intensive practical learning through building, debugging, testing, documentation, and production-oriented experimentation.
-- Non-traditional path: no university degree; engineering ability demonstrated through public work samples, code, and documented technical decisions.
+- Engineering ability demonstrated through public work samples, code, and documented technical decisions.
 
 ## Role Fit
 

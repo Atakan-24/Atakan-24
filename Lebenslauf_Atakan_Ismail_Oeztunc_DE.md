@@ -77,7 +77,7 @@ Read-only GitHub-Assistent, der eigene Repositories überwacht, ungeeignete Cont
 **Software Engineering / KI / Automatisierung | Selbstständige technische Ausbildung | 2023 - heute**
 
 - Rund drei Jahre intensives praktisches Lernen durch Bauen, Debugging, Tests, Dokumentation und produktionsnahe Experimente.
-- Nicht-traditioneller Weg: kein Hochschulabschluss; technische Fähigkeiten werden durch öffentliche Arbeitsproben, Code und dokumentierte Engineering-Entscheidungen belegt.
+- Technische Fähigkeiten werden durch öffentliche Arbeitsproben, Code und dokumentierte Engineering-Entscheidungen belegt.
 
 ## Passende Rollen
 
