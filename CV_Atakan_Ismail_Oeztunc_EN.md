@@ -12,22 +12,29 @@ Software engineer with about three years of hands-on product development. I desi
 
 ## Selected Products
 
-### Simple REC | Native macOS app, Swift / AppKit | Public beta
+### Simple REC | Native macOS app, Swift / AppKit | Public beta | simplerec.teamgoldllc.de
 
-Meeting and screen recorder for Mac whose output AI assistants can read and edit. Screen, system sound and microphone become a timeline of apps, on-screen text and speech. Includes a built-in editor, local transcription and text recognition, and an MCP server so Claude Code, Codex or Cursor can work with recordings. Everything runs locally. Product website live at simplerec.teamgoldllc.de.
+- Meeting and screen recorder for Mac whose output AI assistants can read and edit: screen, system sound and microphone become a timeline of apps, on-screen text and speech.
+- Built-in editor with transcript, focus zoom and style library; local transcription and text recognition, nothing leaves the Mac.
+- MCP server so Claude Code, Codex or Cursor can work with recordings ("cut the pauses out of my last video").
+- Product website live in English and German, free beta with a 30-day trial.
 
 ### Team Gold CRM | Next.js, TypeScript, Supabase, Telnyx WebRTC
 
-Sales CRM for cold outreach: lead collection and scoring, browser-based calling, email follow-up, call review and outreach automation. A sanitized public case study with synthetic data is available on GitHub.
+- Sales CRM for cold outreach with lead collection and scoring, calling in the browser and email follow-up.
+- Call review with human approval and outreach automation. A sanitized public case study with synthetic data is on GitHub.
 
-### Voice assistants | Telnyx, text-to-speech, React
+### Voice assistant "Alex" | Telnyx, text-to-speech, React
 
-AI phone and web receptionists that capture enquiries, confirm details and offer appointment slots, in English and German. A public demo with a guided call and a video pipeline is on GitHub.
+- AI phone and web receptionist that captures enquiries, confirms details and offers appointment slots, in English and German.
+- Built into the client demos below; public demo with a guided call and video pipeline on GitHub.
 
 ## Client Work
 
-- **Home-clearance company, Germany:** Rebuilt a WordPress site as a fast static site from the original photos and texts. Python build and check scripts, self-hosted fonts, no external requests.
-- **Mobile lab service, USA:** Demo of a booking site with guest and client booking, client account with remaining draws, owner view, a voice assistant, English and Spanish, and privacy pages written with US health-data rules in mind.
+Before-and-after comparisons are on the portfolio site.
+
+- **Home-clearance company, Germany:** WordPress site rebuilt as a fast static site from the original photos and texts. Python build and check scripts, self-hosted fonts, no external requests.
+- **Mobile lab service, USA:** Booking demo with guest and client booking, client account with remaining draws, owner view, voice assistant, English and Spanish, and privacy pages written with US health-data rules in mind.
 - **Home-care agency, USA:** Concept site as one React app that keeps a call running across pages, with a virtual front desk and 225 articles and 48 area pages carried over.
 
 ## Core Technical Skills
@@ -53,20 +60,18 @@ AI phone and web receptionists that capture enquiries, confirm details and offer
 - Ran online businesses across e-commerce, affiliate marketing and a YouTube channel.
 - Built a commercial view of offers, customer behavior, acquisition and experimentation that shapes how I design products.
 
-## Public Engineering Work
-
-- **git-secret-scan** | Python: pre-commit hook and GitHub Action against leaked keys. 98 tests, 98% coverage, 100% precision and recall on the labelled corpus.
-- **postgrest-keyset-page** | Node.js: keyset pagination that avoids lost or duplicated rows. CI on Linux, macOS and Windows.
-- **gh-radar** | Python: read-only GitHub digest with an enforced read-only boundary. 58 tests.
-- **multi-machine-agent-sync:** shared context and Git backups for Claude Code and Codex across three operating systems.
-- **autolm:** a language model built from scratch, with an evaluation of generated workflows.
-
 ## How I Work
 
 - I prefer small, explicit systems that are easy to verify.
 - I treat "it works" as a hypothesis until tests and failure handling support it.
 - I use AI coding agents deliberately, with specifications and verification instead of blind acceptance.
 - I write down why a design exists, what trade-offs were made and what broke.
+
+## Public Engineering Work
+
+- **git-secret-scan** (Python): pre-commit hook and GitHub Action against leaked keys, 98 tests, measured benchmark.
+- **multi-machine-agent-sync:** shared context and Git backups for Claude Code and Codex across macOS, Linux and Windows.
+- **gh-radar** (Python): read-only GitHub digest. More small tools on GitHub: github.com/Atakan-24.
 
 ## Education
 
