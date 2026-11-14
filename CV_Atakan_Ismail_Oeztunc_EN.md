@@ -1,87 +1,80 @@
 # Atakan Ismail Öztunç
 
-**PDF version:** [Download application-ready PDF](./CV_Atakan_Ismail_Oeztunc_EN.pdf) · **Editable master:** [Download DOCX](./CV_Atakan_Ismail_Oeztunc_EN.docx)
+**Software Engineer | AI Products & Automation**
 
-**Software Engineer | AI & Automation | Product Engineering**
-
-**Remote | Open to International Opportunities**
+Remote | Open to international opportunities
 
 **Email:** atakanfisc@gmail.com  |  **GitHub:** https://github.com/Atakan-24  |  **Portfolio:** https://atakan-24.github.io/
 
 ## Profile
 
-Self-taught software engineer with approximately 3 years of hands-on development, focused on AI, automation, backend systems, full-stack product engineering, and reliability. I build from problem definition through implementation, testing, documentation, and delivery. My public GitHub work shows practical engineering depth across security tooling, data correctness, GitHub integrations, developer tools, and AI-oriented products. Before software, I built experience in e-commerce, affiliate marketing, content, sales, and online customer acquisition — giving me a commercial and product-oriented perspective alongside engineering.
+Software engineer with about three years of hands-on product development. I design, build and operate complete systems: a native macOS recorder that AI assistants can control, a sales CRM with browser calling, voice assistants that take enquiries and book appointments, and websites for local businesses. I work across the whole chain from idea and architecture to testing, deployment and operation, and I document what I build and what it deliberately does not do.
+
+## Selected Products
+
+### Simple REC | Native macOS app, Swift / AppKit | Public beta
+
+Meeting and screen recorder for Mac whose output AI assistants can read and edit. Screen, system sound and microphone become a timeline of apps, on-screen text and speech. Includes a built-in editor, local transcription and text recognition, and an MCP server so Claude Code, Codex or Cursor can work with recordings. Everything runs locally. Product website live at simplerec.teamgoldllc.de.
+
+### Team Gold CRM | Next.js, TypeScript, Supabase, Telnyx WebRTC
+
+Sales CRM for cold outreach: lead collection and scoring, browser-based calling, email follow-up, call review and outreach automation. A sanitized public case study with synthetic data is available on GitHub.
+
+### Voice assistants | Telnyx, text-to-speech, React
+
+AI phone and web receptionists that capture enquiries, confirm details and offer appointment slots, in English and German. A public demo with a guided call and a video pipeline is on GitHub.
+
+## Client Work
+
+- **Home-clearance company, Germany:** Rebuilt a WordPress site as a fast static site from the original photos and texts. Python build and check scripts, self-hosted fonts, no external requests.
+- **Mobile lab service, USA:** Demo of a booking site with guest and client booking, client account with remaining draws, owner view, a voice assistant, English and Spanish, and privacy pages written with US health-data rules in mind.
+- **Home-care agency, USA:** Concept site as one React app that keeps a call running across pages, with a virtual front desk and 225 articles and 48 area pages carried over.
 
 ## Core Technical Skills
 
-- **Languages & Runtime:** Python, TypeScript, JavaScript / Node.js
-- **AI & Automation:** LLM applications, AI agents, workflow automation, API integrations, AI-assisted development
-- **Backend & Data:** REST APIs, PostgreSQL, Supabase, data processing, pagination and correctness
-- **Web & Product:** Next.js, full-stack web applications, product prototyping, developer tooling
-- **Quality & Reliability:** Testing, regression prevention, property-based testing, CI/CD, failure handling, maintainability
-- **Security:** Credential scanning, secret masking, read-only API boundaries, fail-closed design
+- **Languages:** Swift, TypeScript, JavaScript / Node.js, Python
+- **Web & product:** React, Vite, Next.js, full-stack applications, bilingual sites, accessibility and performance basics
+- **Backend & data:** PostgreSQL, Supabase, REST APIs, Telnyx voice and messaging, Resend email
+- **AI & automation:** LLM applications, voice agents, MCP servers, agent workflows, evaluation and guardrails
+- **Quality & reliability:** Testing, CI/CD, regression prevention, secret scanning, fail-closed design
+- **Media:** HTML-to-video production, speech synthesis, local transcription
 
-## Engineering Experience
+## Experience
 
-### Independent Software Engineer / Builder | Self-directed | 2023 - Present
+### Software Engineer & Builder | Team Gold LLC | 2023 - Present
 
-- Built software systems end-to-end through self-directed learning, practical experimentation, and iterative project work.
-- Worked across AI/LLM applications, automation, backend services, full-stack products, security utilities, developer tooling, and infrastructure-oriented concerns.
-- Design around real failure modes rather than only happy paths: validation, regression tests, data integrity, explicit error states, and fail-closed behavior.
-- Maintain public GitHub repositories with documentation, tests, CI workflows, architectural decisions, trade-offs, and limitations.
-- Currently focused on turning this engineering foundation into client and contract work for B2B software, AI systems, and automation.
+- Build and run the software behind Team Gold's own business and its client projects: CRM, voice assistants, websites and automation.
+- Ship products end to end: native app, web apps, backend services, deployment and monitoring.
+- Maintain public repositories with documentation, tests, CI workflows, architectural decisions and stated limitations.
+- Work with Claude Code and Codex under clear specifications, guardrails and verification, including a shared-memory setup across macOS, Linux and Windows.
 
-### Affiliate / E-commerce & Online Business | Independent digital business | Ongoing
+### Online Business | E-commerce, affiliate marketing, content | Earlier and ongoing
 
-- Current primary income stream, providing financial stability while building a second professional track in software engineering.
-- Earlier work across e-commerce, affiliate marketing, YouTube/content, sales, outreach, and online customer acquisition.
-- Developed practical experience with offers, customer behavior, acquisition channels, experimentation, and commercial execution.
+- Ran online businesses across e-commerce, affiliate marketing and a YouTube channel.
+- Built a commercial view of offers, customer behavior, acquisition and experimentation that shapes how I design products.
 
-## Selected Engineering Work
+## Public Engineering Work
 
-### git-secret-scan | Python / Security
+- **git-secret-scan** | Python: pre-commit hook and GitHub Action against leaked keys. 98 tests, 98% coverage, 100% precision and recall on the labelled corpus.
+- **postgrest-keyset-page** | Node.js: keyset pagination that avoids lost or duplicated rows. CI on Linux, macOS and Windows.
+- **gh-radar** | Python: read-only GitHub digest with an enforced read-only boundary. 58 tests.
+- **multi-machine-agent-sync:** shared context and Git backups for Claude Code and Codex across three operating systems.
+- **autolm:** a language model built from scratch, with an evaluation of generated workflows.
 
-Pre-commit hook and GitHub Action that prevents API keys and tokens from reaching commits. Includes masking, multiple credential patterns, local and CI scanning, and explicit handling of environment failures.
+## How I Work
 
-**Evidence:** 98 tests | 98% coverage | measured benchmark: 100% precision / 100% recall on the labelled corpus
+- I prefer small, explicit systems that are easy to verify.
+- I treat "it works" as a hypothesis until tests and failure handling support it.
+- I use AI coding agents deliberately, with specifications and verification instead of blind acceptance.
+- I write down why a design exists, what trade-offs were made and what broke.
 
-### postgrest-keyset-page | Node.js / Backend
-
-Dependency-free keyset pagination for PostgREST-style REST APIs, designed to prevent silent row loss or duplication when datasets change during pagination. Includes a test that reproduces the failure mode.
-
-**Evidence:** 9 tests | CI on Linux, macOS, Windows | Node 18 and 22
-
-### gh-radar | Python / GitHub API
-
-Read-only GitHub assistant that watches personal repositories, filters noisy contribution opportunities, scores issues, and explains why a suggestion is worth attention.
-
-**Evidence:** 58 tests | read-only HTTP boundary enforced and tested
-
-## Additional Public Projects
-
-- **yt-transcript** | Python / Data / Automation — Tooling for processing YouTube transcripts and integrating external data sources through a fallback-oriented workflow. 40 tests documented in the public profile README.
-- **gitingest** | Developer Tooling — Repository-content ingestion designed to produce a structured, searchable representation for developer workflows.
-- **fahm** | Software / AI / Learning — Arabic spaced-repetition product exploring practical software, offline-first behavior, and AI/product workflows.
-
-## How I Engineer
-
-- I prefer small, explicit systems that are easy to reason about and verify rather than unnecessary complexity.
-- I treat "it works" as a hypothesis until tests, failure handling, and reproducible evidence support it.
-- I use AI coding agents deliberately, with clear specifications, guardrails, and verification rather than accepting generated output blindly.
-- I document why a design exists, what trade-offs were made, what broke, and what the system deliberately does not do.
-
-## Education & Learning
+## Education
 
 **Technical College Entrance Qualification (Fachabitur) | Metalltechnik** | Completed
 
-**Software Engineering / AI / Automation | Self-directed engineering | 2023 - Present**
+## Open To
 
-- Approximately three years of intensive practical learning through building, debugging, testing, documentation, and production-oriented experimentation.
-- Engineering ability demonstrated through public work samples, code, and documented technical decisions.
-
-## Role Fit
-
-AI Engineer | AI Automation Engineer | Product Engineer | Full-Stack Engineer | Backend Engineer | Contract Software Engineer | Founding Engineer | Technical Consultant
+AI Engineer | Product Engineer | Full-Stack Engineer | Contract Software Engineer | Technical Consultant
 
 ## Links
 

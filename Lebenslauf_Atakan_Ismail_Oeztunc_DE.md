@@ -1,87 +1,80 @@
 # Atakan Ismail Öztunç
 
-**PDF-Version:** [Bewerbungs-PDF herunterladen](./Lebenslauf_Atakan_Ismail_Oeztunc_DE.pdf) · **Bearbeitbare Masterdatei:** [DOCX herunterladen](./Lebenslauf_Atakan_Ismail_Oeztunc_DE.docx)
+**Software Engineer | KI-Produkte & Automatisierung**
 
-**Software Engineer | KI & Automatisierung | Product Engineering**
-
-**Remote | Offen für internationale Zusammenarbeit**
+Remote | Offen für internationale Zusammenarbeit
 
 **E-Mail:** atakanfisc@gmail.com  |  **GitHub:** https://github.com/Atakan-24  |  **Portfolio:** https://atakan-24.github.io/
 
 ## Profil
 
-Autodidaktischer Software Engineer mit rund 3 Jahren praktischer Entwicklungserfahrung, mit Schwerpunkt auf KI, Automatisierung, Backend-Systemen, Full-Stack-Produktentwicklung und Zuverlässigkeit. Ich entwickle Lösungen von der Problemdefinition über Implementierung, Tests und Dokumentation bis zur Auslieferung. Mein öffentliches GitHub zeigt praktische Engineering-Erfahrung in Security-Tools, Datenkorrektheit, GitHub-Integrationen, Developer Tools und KI-orientierten Produkten. Vor der Softwareentwicklung habe ich E-Commerce, Affiliate Marketing, Content, Sales und Online-Kundengewinnung betrieben und bringe deshalb zusätzlich eine kommerzielle und produktorientierte Perspektive mit.
+Software Engineer mit rund drei Jahren praktischer Produktentwicklung. Ich entwerfe, baue und betreibe komplette Systeme: einen nativen macOS-Recorder, den KI-Assistenten steuern können, ein Vertriebs-CRM mit Telefonie im Browser, Sprachassistenten, die Anfragen aufnehmen und Termine vergeben, und Webseiten für lokale Betriebe. Ich arbeite über die ganze Kette von der Idee und Architektur bis zu Tests, Veröffentlichung und Betrieb und dokumentiere, was ich baue und was es bewusst nicht tut.
+
+## Ausgewählte Produkte
+
+### Simple REC | Native macOS-App, Swift / AppKit | Öffentliche Beta
+
+Meeting- und Bildschirmrecorder für den Mac, dessen Ergebnis KI-Assistenten lesen und schneiden können. Bildschirm, Systemton und Mikrofon werden zu einem Verlauf aus Apps, Bildschirmtext und Gesprochenem. Mit eingebautem Editor, lokaler Transkription und Texterkennung und einem MCP-Server, über den Claude Code, Codex oder Cursor mit Aufnahmen arbeiten. Alles läuft lokal. Produktseite live unter simplerec.teamgoldllc.de.
+
+### Team Gold CRM | Next.js, TypeScript, Supabase, Telnyx WebRTC
+
+Vertriebs-CRM für Kaltakquise: Lead-Sammlung und -Bewertung, Telefonie im Browser, E-Mail-Nachfassen, Gesprächsauswertung und Automatisierung der Ansprache. Eine bereinigte öffentliche Fallstudie mit synthetischen Daten liegt auf GitHub.
+
+### Sprachassistenten | Telnyx, Sprachausgabe, React
+
+KI-Assistenten für Telefon und Web, die Anfragen aufnehmen, Angaben bestätigen und Terminvorschläge machen, auf Deutsch und Englisch. Eine öffentliche Demo mit geführtem Anruf und Video-Pipeline liegt auf GitHub.
+
+## Kundenprojekte
+
+- **Entrümpelungsfirma, Deutschland:** WordPress-Seite als schnelle statische Seite neu gebaut, aus den Originalfotos und -texten. Build- und Prüfskripte in Python, selbst gehostete Schriften, keine externen Anfragen.
+- **Mobiler Labordienst, USA:** Demo einer Buchungsseite mit Buchung für Gäste und Kunden, Kundenkonto mit verbleibenden Blutabnahmen, Inhaber-Ansicht, Sprachassistent, Englisch und Spanisch und Datenschutzseiten mit Blick auf US-Gesundheitsdaten.
+- **Pflegedienst, USA:** Konzeptseite als eine React-App, in der ein Anruf über mehrere Seiten weiterläuft, mit virtueller Rezeption und übernommenen 225 Artikeln und 48 Gebietsseiten.
 
 ## Technische Schwerpunkte
 
-- **Sprachen & Runtime:** Python, TypeScript, JavaScript / Node.js
-- **KI & Automatisierung:** LLM-Anwendungen, AI Agents, Workflow-Automatisierung, API-Integrationen, KI-unterstützte Entwicklung
-- **Backend & Daten:** REST APIs, PostgreSQL, Supabase, Datenverarbeitung, Pagination und Datenkorrektheit
-- **Web & Produkte:** Next.js, Full-Stack-Webanwendungen, Prototyping, Developer Tools
-- **Qualität & Zuverlässigkeit:** Tests, Regression Prevention, Property-based Testing, CI/CD, Fehlerbehandlung, Wartbarkeit
-- **Security:** Credential Scanning, Secret Masking, Read-only API-Grenzen, Fail-Closed Design
+- **Sprachen:** Swift, TypeScript, JavaScript / Node.js, Python
+- **Web & Produkt:** React, Vite, Next.js, Full-Stack-Anwendungen, zweisprachige Seiten, Grundlagen zu Barrierefreiheit und Performance
+- **Backend & Daten:** PostgreSQL, Supabase, REST-APIs, Telnyx für Sprache und Nachrichten, Resend für E-Mail
+- **KI & Automatisierung:** LLM-Anwendungen, Sprachagenten, MCP-Server, Agent-Workflows, Auswertung und Leitplanken
+- **Qualität & Zuverlässigkeit:** Tests, CI/CD, Regressionsschutz, Secret-Scanning, Fail-closed-Design
+- **Medien:** Videoproduktion aus HTML, Sprachsynthese, lokale Transkription
 
 ## Berufliche Erfahrung
 
-### Independent Software Engineer / Builder | Selbstständig / autodidaktisch | 2023 - heute
+### Software Engineer & Builder | Team Gold LLC | 2023 - heute
 
-- End-to-end Softwareentwicklung durch selbstständiges Lernen, praktische Experimente und iterative Projektarbeit.
-- Arbeit über KI/LLM-Anwendungen, Automatisierung, Backend-Services, Full-Stack-Produkte, Security-Tools, Developer Tools und Infrastrukturthemen hinweg.
-- Fokus auf reale Fehlerfälle statt nur Happy Paths: Validierung, Regressionstests, Datenintegrität, explizite Fehlerzustände und Fail-Closed-Verhalten.
-- Öffentliche GitHub-Repositories mit Dokumentation, Tests, CI-Workflows, Architekturentscheidungen, Trade-offs und bekannten Grenzen.
-- Aktueller Fokus: daraus Kunden- und Contract-Arbeit für B2B-Software, KI-Systeme und Automatisierung entwickeln.
+- Entwicklung und Betrieb der Software hinter dem eigenen Geschäft von Team Gold und seinen Kundenprojekten: CRM, Sprachassistenten, Webseiten und Automatisierung.
+- Produkte von Anfang bis Ende: native App, Web-Apps, Backend-Dienste, Veröffentlichung und Überwachung.
+- Öffentliche Repositories mit Dokumentation, Tests, CI-Workflows, Architekturentscheidungen und benannten Grenzen.
+- Arbeit mit Claude Code und Codex unter klaren Vorgaben, Leitplanken und Prüfung, inklusive gemeinsamem Gedächtnis über macOS, Linux und Windows.
 
-### Affiliate / E-Commerce & Online Business | Selbstständiges digitales Business | fortlaufend
+### Online Business | E-Commerce, Affiliate-Marketing, Content | früher und fortlaufend
 
-- Aktuell wichtigste Einnahmequelle und finanzielle Grundlage während des Aufbaus der beruflichen Software-Laufbahn.
-- Frühere Erfahrung in E-Commerce, Affiliate Marketing, YouTube/Content, Sales, Outreach und Online-Kundengewinnung.
-- Praktische Erfahrung mit Angeboten, Kundenverhalten, Akquisekanälen, Experimenten und kommerzieller Umsetzung.
+- Online-Geschäfte in E-Commerce, Affiliate-Marketing und mit einem YouTube-Kanal.
+- Ein kaufmännischer Blick auf Angebote, Kundenverhalten, Kundengewinnung und Experimente, der prägt, wie ich Produkte entwerfe.
 
-## Ausgewählte Engineering-Projekte
+## Öffentliche Engineering-Arbeit
 
-### git-secret-scan | Python / Security
-
-Pre-Commit-Hook und GitHub Action, die verhindert, dass API-Schlüssel und Tokens in Commits gelangen. Enthält Maskierung, mehrere Credential-Muster, lokale und CI-Prüfungen sowie explizite Fehlerbehandlung.
-
-**Belege:** 98 Tests | 98 % Coverage | Benchmark: 100 % Precision / 100 % Recall im beschrifteten Testkorpus
-
-### postgrest-keyset-page | Node.js / Backend
-
-Dependency-freie Keyset-Pagination für PostgREST-ähnliche REST-APIs, entwickelt gegen stillen Datenverlust oder Duplikate bei Änderungen während der Pagination.
-
-**Belege:** 9 Tests | CI auf Linux, macOS, Windows | Node 18 und 22
-
-### gh-radar | Python / GitHub API
-
-Read-only GitHub-Assistent, der eigene Repositories überwacht, ungeeignete Contribution-Möglichkeiten herausfiltert, Issues bewertet und die Gründe für Vorschläge erklärt.
-
-**Belege:** 58 Tests | Read-only-HTTP-Grenze wird technisch erzwungen und getestet
-
-## Weitere öffentliche Projekte
-
-- **yt-transcript** | Python / Daten / Automatisierung — Werkzeuge zur Verarbeitung von YouTube-Transkripten und zur Einbindung externer Datenquellen über einen Fallback-orientierten Workflow. 40 Tests im öffentlichen Profil dokumentiert.
-- **gitingest** | Developer Tooling — Strukturierte Verarbeitung von Repository-Inhalten für besser durchsuchbare und produktivere Entwickler-Workflows.
-- **fahm** | Software / KI / Lernen — Arabische Spaced-Repetition-Anwendung mit Fokus auf praktische Produktentwicklung, Offline-Verhalten und KI-/Produkt-Workflows.
+- **git-secret-scan** | Python: Pre-Commit-Hook und GitHub Action gegen geleakte Schlüssel. 98 Tests, 98 % Abdeckung, 100 % Precision und Recall auf dem gelabelten Korpus.
+- **postgrest-keyset-page** | Node.js: Cursor-Paginierung ohne verlorene oder doppelte Zeilen. CI auf Linux, macOS und Windows.
+- **gh-radar** | Python: nur lesender GitHub-Überblick mit erzwungener Lesegrenze. 58 Tests.
+- **multi-machine-agent-sync:** gemeinsamer Kontext und Git-Sicherung für Claude Code und Codex auf drei Betriebssystemen.
+- **autolm:** ein Sprachmodell von Grund auf, mit Auswertung erzeugter Workflows.
 
 ## Arbeitsweise
 
-- Ich bevorzuge kleine, explizite Systeme, die sich gut verstehen und verifizieren lassen, statt unnötiger Komplexität.
-- „Es funktioniert" ist für mich zunächst eine Behauptung, bis Tests, Fehlerbehandlung und reproduzierbare Belege sie stützen.
-- Ich setze KI-Coding-Agents bewusst ein - mit klaren Spezifikationen, Guardrails und Verifikation statt blindem Vertrauen in generierten Code.
-- Ich dokumentiere, warum eine Architektur gewählt wurde, welche Trade-offs bestehen, was kaputtging und was ein System bewusst nicht tut.
+- Ich bevorzuge kleine, klare Systeme, die sich leicht prüfen lassen.
+- "Es funktioniert" ist für mich eine Annahme, bis Tests und Fehlerbehandlung sie stützen.
+- Ich setze KI-Coding-Agenten bewusst ein, mit Vorgaben und Prüfung statt blindem Übernehmen.
+- Ich halte fest, warum ein Entwurf so ist, welche Abwägungen es gab und was kaputtging.
 
-## Ausbildung & selbstständiges Lernen
+## Ausbildung
 
-**Fachabitur - Fachrichtung Metalltechnik** | Schulische Ausbildung | abgeschlossen
+**Fachabitur | Fachrichtung Metalltechnik** | abgeschlossen
 
-**Software Engineering / KI / Automatisierung | Selbstständige technische Ausbildung | 2023 - heute**
+## Offen für
 
-- Rund drei Jahre intensives praktisches Lernen durch Bauen, Debugging, Tests, Dokumentation und produktionsnahe Experimente.
-- Technische Fähigkeiten werden durch öffentliche Arbeitsproben, Code und dokumentierte Engineering-Entscheidungen belegt.
-
-## Passende Rollen
-
-AI Engineer | AI Automation Engineer | Product Engineer | Full-Stack Engineer | Backend Engineer | Contract Software Engineer | Founding Engineer | Technical Consultant
+AI Engineer | Product Engineer | Full-Stack Engineer | Freiberuflicher Software Engineer | Technischer Berater
 
 ## Links
 
