@@ -35,6 +35,7 @@ I build and operate software that people rely on — from applications used dail
 | [**Team Gold CRM Showcase**](https://github.com/Atakan-24/team-gold-crm-showcase) | Sanitized case study of a production sales CRM | Next.js, TypeScript, Supabase, WebRTC and outreach automation |
 | [**git-secret-scan**](https://github.com/Atakan-24/git-secret-scan) | Detect supported credentials before they reach Git | Pre-commit hook, GitHub Actions and documented benchmarks |
 | [**AutoLM**](https://github.com/Atakan-24/autolm) | Language-model implementation and workflow-generation experiments | Transformer, tokenizer, training pipeline and evaluation |
+| [**Simple REC**](https://github.com/Atakan-24/simple-rec) | Mac meeting recorder whose output AI assistants can read | Screen, system sound and microphone to a timeline of apps, on-screen text and speech; runs locally; landing page live |
 | [**Windows Screen Time Manager**](https://github.com/Atakan-24/windows-screen-time-manager) | Screen-time and parental controls for Windows | PowerShell, SYSTEM tasks, sessions, ACLs and Win32/.NET |
 | [**AI Voice Agent + Demo Videos**](https://github.com/Atakan-24/ai-voice-agent-demo) | Hands-on case study of an AI phone receptionist and its video pipeline | Telnyx voice, text-to-speech, HTML-to-video, bilingual EN/DE |
 
@@ -45,6 +46,8 @@ I build and operate software that people rely on — from applications used dail
 | [**gh-radar**](https://github.com/Atakan-24/gh-radar) | Read-only GitHub digest and prioritization |
 | [**postgrest-keyset-page**](https://github.com/Atakan-24/postgrest-keyset-page) | Reliable cursor pagination for REST APIs |
 | [**multi-machine-agent-sync**](https://github.com/Atakan-24/multi-machine-agent-sync) | Shared context and Git backup for Claude Code and Codex across macOS, Linux and Windows |
+| **Mobile-lab booking site** (client anonymised, private demo) | Booking, client account, owner view, voice assistant, EN/ES, privacy pages for US health data |
+| **Video studio** and **newsletter workflow** (private) | HTML-to-video production and a self-healing newsletter pipeline |
 | [**linux-werkzeuge**](https://github.com/Atakan-24/linux-werkzeuge) | Linux workstation tooling and service-hardening examples |
 | [**portfolio-tracker**](https://github.com/Atakan-24/portfolio-tracker) | Portfolio analytics and a grounded AI chat |
 | [**yt-transcript**](https://github.com/Atakan-24/yt-transcript) | Transcript extraction with multiple fallback paths |
