@@ -47,6 +47,7 @@ I build and operate software that people rely on — from applications used dail
 | [**postgrest-keyset-page**](https://github.com/Atakan-24/postgrest-keyset-page) | Reliable cursor pagination for REST APIs |
 | [**multi-machine-agent-sync**](https://github.com/Atakan-24/multi-machine-agent-sync) | Shared context and Git backup for Claude Code and Codex across macOS, Linux and Windows |
 | **Mobile-lab booking site** (client anonymised, private demo) | Booking, client account, owner view, voice assistant, EN/ES, privacy pages for US health data |
+| **Blackspire Dominion** (private source) | Offline fantasy story game for browser and phone: React, TypeScript, Vite, installable, unit and browser tests |
 | **Video studio** and **newsletter workflow** (private) | HTML-to-video production and a self-healing newsletter pipeline |
 | [**linux-werkzeuge**](https://github.com/Atakan-24/linux-werkzeuge) | Linux workstation tooling and service-hardening examples |
 | [**portfolio-tracker**](https://github.com/Atakan-24/portfolio-tracker) | Portfolio analytics and a grounded AI chat |
